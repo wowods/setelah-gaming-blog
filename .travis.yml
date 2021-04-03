@@ -1,0 +1,22 @@
+language: ruby
+rvm:
+  - 2.4.1
+env:
+  global:
+  - USER="wowods"
+  - EMAIL="wowo.diergo@gmail.com"
+  - REPO="blog-setelah-gaming"
+  - FILES="./_site/"
+  - GH_REPO="github.com/${USER}/${REPO}.git"
+  - secure: "put travis gem output here => http://docs.travis-ci.com/user/encryption-keys/"
+before_script: cp -rfv docs/_includes .
+script: JEKYLL_ENV=production bundle exec jekyll build
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: _site
+  keep-history: true
+  on:
+    branch: master
+    target_branch: gh-pages
