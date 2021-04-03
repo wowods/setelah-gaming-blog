@@ -5,18 +5,21 @@ env:
   global:
   - USER="wowods"
   - EMAIL="wowo.diergo@gmail.com"
-  - REPO="blog-setelah-gaming"
-  - FILES="./_site/"
+  - REPO="blog"
+  - FOLDER="_sites"
   - GH_REPO="github.com/${USER}/${REPO}.git"
-  - secure: "put travis gem output here => http://docs.travis-ci.com/user/encryption-keys/"
-before_script: cp -rfv docs/_includes .
-script: JEKYLL_ENV=production bundle exec jekyll build
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: _site
-  keep-history: true
-  on:
-    branch: master
-    target_branch: gh-pages
+  - secure: XFr/ayIEplYk2G+NNmkJR2SZxRxY+hdccpOEP/Rs8Il49tcgsWKAW8h6i8krurvftRkKUtTPmmhC7GG3Y6mV+ADtFIYUwH6JYr8gpXchJ2jLBjDLm0rpCoHLYgk1nT6MMDYHhvsEygIyqTvRDPCFY0+T39FWQGBiyxMNe8ar0Qpx6rrvYxKWUlHB9i7V0usuU58maMg5L5yCShguTcLm9jW2EwG3a5/B2lFwHp6c5Hjw6TX7k9YDKtaws4f4zYYCTvLlZV71byuo6WloC0wH6MXADTukrI4zZoSZh5O7y7YFuTMX+wNdh/iMhCess6MRqSP86GVY1uGOYFLoXv4X2akYuSqr9btkNGlJXQGqA+JBcRStdSQrPoUnpJhUl/aXW0lB/O+YlYnJGFu+YyFP+svst4gTnsmiyGHASbjb9JafiX0EZBqAG87/2jU4i4FPr3M09GLNbvKWsD9wnymrJr8zSkkZzbanHM+Q4UAmVwFRQFL2akq0a42JUIjCzHuhmIqQBKNgOu09AUKMTTQQ5G1c/jBB4sd+zWyQbUnpZ6erNaG/F7RdoxguyTE3X+H38qTV8yg2vORO+uBhar/Iz/l1HWRzkZYCjrDZvbwmod2lhABngiPdeEDtHkVOlS9rxto4j8UCBLWCP0VNzlay2p3zFkxGpVel+lbA+Gdtuqk=
+before_install:
+  - sudo apt-get install rsync -y
+script: JEKYLL_ENV=production bundle exec jekyll build -d "./${FOLDER}"
+after_success:
+  - MESSAGE=$(git log --format=%B -n 1 $TRAVIS_COMMIT)
+  - git clone git://${GH_REPO}
+  - rsync -r ${FOLDER}/* ${REPO}
+  - cd ${REPO}
+  - git remote
+  - git config user.email ${EMAIL}
+  - git config user.name ${USER}
+  - git add .
+  - git commit -m "${MESSAGE}"
+  - git push "https://${GH_TOKEN}@${GH_REPO}" master > /dev/null 2>&1

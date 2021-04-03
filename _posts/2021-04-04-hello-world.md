@@ -1,5 +1,6 @@
 ---
 title: Hello, World!
+key: hello-world
 ---
 
 Apa kabar, dunia!
