@@ -8,7 +8,8 @@
 {%- assign _VALINE_META = site.comments.valine.meta -%}
 
 
-{%- if _VALINE_APP_ID and
+{%- if page.key and 
+  _VALINE_APP_ID and
   _VALINE_APP_KEY -%}
 
 <div id="vcomments"></div>
