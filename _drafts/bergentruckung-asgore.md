@@ -2,6 +2,11 @@
 title: Undertale - Bergentrückung dan ASGORE
 key: bergentruckung-asgore-theme
 ---
+{:centered: style="text-align: center;"}
+
+![inicoba]({{ site.assetURL }}/images/undertale_album.png)
+*Caption here with some stupid thing*
+{: centered}  
 
 **Undertale** memang memiliki soundtrack yang terkenal, dan saya juga mengenal game ini pertama kali dari soundtrack-nya. Saya tak ingat persis musik **Undertale** apa yg pertama kali saya dengar, namun tak perlu waktu yang lama hingga rekomendasi YouTube saya dipenuhi dengan musik-musiknya. :D
 
@@ -21,7 +26,12 @@ Pertama, mari kita bahas mengenai musik *Bergentrückung*, dimana anda dapat mer
 Dalam ceritanya, ketika kita pertama kali bertemu dengan Asgore, ia telah kehilangan anaknya (dan juga anak angkatnya), ditinggal pergi oleh istrinya, dan juga dengan "terpaksa" mengumpulkan 6 SOULS. Dia berusaha mengakhiri hal ini semua dengan mengumpulkan SOUL ketujuh, dengan melawan kita. Bahkan jika Asgore berhasil mengalahkan kita, ketika kita melawannya kembali (dengan kekuatan DETERMINATION) dan mengatakan bahwa ia telah berhasil membunuh kita untuk kesekian kalinya, ia mengangguk dengan sedih. Kemuraman inilah, yang menurut saya, digambarkan dengan baik melalui musik *Bergentrückung*.  
 
 Jika kita mencari arti kata *Bergentrückung*, anda akan menemukan bahwa kata ini memiliki arti "King in the Mountain", yang sering digunakan pada folklore untuk menggambarkan seorang pahlawan legendaris yang menyendiri di sebuah gunung, menunggu waktu yang tepat bagi dirinya untuk menyelamatkan dunia.  
-Kita dapat mengambil arti harafiah
+Kita dapat mengambil arti harafiah ...
+
+{% include embed-audio.html src="{{ site.assetURL }}/musics/opening.mp3" %}
+
+![Undertale - Bergentrückung dan ASGORE header]({{ site.assetURL }}/images/undertale-asgore-barrier.jpg){: height="70%" width="70%"}
+{: centered}
 
 ### Heartache
 
@@ -29,4 +39,6 @@ Kita dapat mengambil arti harafiah
   
 -----
   
+![Undertale - Bergentrückung dan ASGORE header](https://raw.githubusercontent.com/wowods/blog/master/assets/images/undertale-asgore-battle.jpg)
+
 Penutup
