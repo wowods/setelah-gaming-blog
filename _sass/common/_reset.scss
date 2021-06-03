@@ -147,6 +147,7 @@ figure > img {
 
 figcaption {
   font-size: map-get($base, font-size-sm);
+  font-style: italic;
 }
 
 button {
