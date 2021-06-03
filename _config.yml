@@ -24,10 +24,6 @@ title   : Setelah Gaming
 description: > # this means to ignore newlines until "Language & timezone"
   Blog gamer yang berusaha membahas game dengan detail
 
-## => Other Setting
-assetURL : https://raw.githubusercontent.com/wowods/blog/master/assets
-
-
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
