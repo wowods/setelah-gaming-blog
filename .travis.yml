@@ -1,25 +1,23 @@
 language: ruby
-rvm:
-  - 2.4.1
+rvm: 2.4.1
+
+branches:
+  only:
+    - main
+
+script:
+ - gem update --system
+ - gem install bundler
+ - bundler update --bundler
+ - gem install jekyll bundler
+ - bundle exec jekyll build
+
+after_success:
+  - firebase deploy --token "${FIREBASE_TOKEN}" 
+
 env:
   global:
-  - USER="wowods"
-  - EMAIL="wowo.diergo@gmail.com"
-  - REPO="blog"
-  - FOLDER="_sites"
-  - GH_REPO="github.com/${USER}/${REPO}.git"
-  - secure: XFr/ayIEplYk2G+NNmkJR2SZxRxY+hdccpOEP/Rs8Il49tcgsWKAW8h6i8krurvftRkKUtTPmmhC7GG3Y6mV+ADtFIYUwH6JYr8gpXchJ2jLBjDLm0rpCoHLYgk1nT6MMDYHhvsEygIyqTvRDPCFY0+T39FWQGBiyxMNe8ar0Qpx6rrvYxKWUlHB9i7V0usuU58maMg5L5yCShguTcLm9jW2EwG3a5/B2lFwHp6c5Hjw6TX7k9YDKtaws4f4zYYCTvLlZV71byuo6WloC0wH6MXADTukrI4zZoSZh5O7y7YFuTMX+wNdh/iMhCess6MRqSP86GVY1uGOYFLoXv4X2akYuSqr9btkNGlJXQGqA+JBcRStdSQrPoUnpJhUl/aXW0lB/O+YlYnJGFu+YyFP+svst4gTnsmiyGHASbjb9JafiX0EZBqAG87/2jU4i4FPr3M09GLNbvKWsD9wnymrJr8zSkkZzbanHM+Q4UAmVwFRQFL2akq0a42JUIjCzHuhmIqQBKNgOu09AUKMTTQQ5G1c/jBB4sd+zWyQbUnpZ6erNaG/F7RdoxguyTE3X+H38qTV8yg2vORO+uBhar/Iz/l1HWRzkZYCjrDZvbwmod2lhABngiPdeEDtHkVOlS9rxto4j8UCBLWCP0VNzlay2p3zFkxGpVel+lbA+Gdtuqk=
-before_install:
-  - sudo apt-get install rsync -y
-script: JEKYLL_ENV=production bundle exec jekyll build -d "./${FOLDER}"
-after_success:
-  - MESSAGE=$(git log --format=%B -n 1 $TRAVIS_COMMIT)
-  - git clone git://${GH_REPO}
-  - rsync -r ${FOLDER}/* ${REPO}
-  - cd ${REPO}
-  - git remote
-  - git config user.email ${EMAIL}
-  - git config user.name ${USER}
-  - git add .
-  - git commit -m "${MESSAGE}"
-  - git push "https://${GH_TOKEN}@${GH_REPO}" master > /dev/null 2>&1
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - secure: XE5xvfqsXBr+34D0+HmybxX3FkwOrigM9am9lEh2bth6UExcx18sKgrwn3lRLJkO0SHizSj3ECtsidd2nAjuywL5MD8/vMiQLLOryRC8h+uDoAFcilckRoNJd1TSCIsbhptflMKi+Yraj+RLpAM4yqKKJHGQoeT2k0La3ElZtY98/jkF6jlmA3fleRkETCm4NRlkr1B4rXvEQth+vEkOH+OzQ7XN/tV8bQevrY63HlsH0E7RWgIZN8ohsAfJ+Llsxm/QB6OECDqnhR3N9iLhRVtMJxpV3sQlstVRNhDbr4Gk0zcBH2abhFyvchzR/Vbt/6W8fGDpbiHkK6TnBJspj8C4ALh6MJaGZtKtvpTJK/3eKEqXMlGNUDDSr8iVLtEZeB8b5hlTjOwk5FRqcXVzgQ2/phREqHdftuTZZOLtwdcqCFJwIUUB7D2VdpE5U98S2g9Lib+O5Iw3XOqkTJzc/0gzoaTa10czqzn29MhJoOzAAvsHeukUw45dPiXC84HDLUvD9Mw0ClNzrXdb5oCGtFMJjzYFkLPxNFPOTvTimPTy9mQTr4qtRD/lbPS3sqJV7u0pFNItXNAu1aPaDFbyQpHqZDa+ZCI75+uAe5e2YV8g/VoMYQOt3/JJcZ2jEOR6yxITKiyEl3rHj0Ybic66b2NfN2UYda9N5wkDgE/pHbo=
+
+sudo: false
