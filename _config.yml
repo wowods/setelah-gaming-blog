@@ -21,6 +21,7 @@ highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "
 url     : https://setelahgaming.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Setelah Gaming
+tagline : Blog game yang dibaca setelah main game-nya
 description: > # this means to ignore newlines until "Language & timezone"
   Blog gamer yang berusaha membahas game dengan detail
 
@@ -28,6 +29,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 ##############################
 lang: en # the language of your site, default as "en"
 timezone: Asia/Jakarta # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+locale: id_ID
 
 
 ## => Author and Social
@@ -222,3 +224,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
