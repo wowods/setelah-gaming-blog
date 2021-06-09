@@ -33,7 +33,7 @@ script:
   #continue even after error
   - set -e 
   #build jekyll site
-  - jekyll build 
+  - JEKYLL_ENV=production bundle exec jekyll build
 
 after_success:
   #deploy to firebase using stored token. 
