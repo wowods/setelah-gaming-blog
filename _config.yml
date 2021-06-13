@@ -24,6 +24,7 @@ title   : Setelah Gaming
 tagline : Blog game yang dibaca setelah main game-nya
 description: > # this means to ignore newlines until "Language & timezone"
   Blog gamer yang berusaha membahas game dengan detail
+logo    : /assets/images/logo/logo.png
 
 ## => Language and Timezone
 ##############################
@@ -65,7 +66,7 @@ repository_tree: # master
 paths:
   root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
+  archive : /archive/ # "/archive.html" (default)
 #  rss     : # "/feed.xml" (default)
 
 
@@ -182,7 +183,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : date
+permalink   : /:slug/
 
 exclude:
   - CHANGELOG.md
@@ -220,7 +221,7 @@ defaults:
 ## => Plugins
 ##############################
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
