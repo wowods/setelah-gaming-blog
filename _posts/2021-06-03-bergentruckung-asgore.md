@@ -7,7 +7,7 @@ description: Pembahasan secara detil terkait impresi dan makna yang saya dapatka
 {:centered: style="text-align: center;"}
 {% include embed-audio-autopause.html %}
 
-![Undertale Album Artwork](../../../assets/images/undertale_album.png)  
+![Undertale Album Artwork](../../../assets/images/undertale-album.png)  
 {: centered}  
 
 [Undertale](https://undertale.com/) memang memiliki soundtrack yang terkenal, dan saya juga mengenal game ini pertama kali dari *soundtrack*-nya. Saya tak ingat persis musik Undertale apa yg pertama kali saya dengar, namun tak perlu waktu yang lama hingga rekomendasi YouTube saya dipenuhi dengan musik-musiknya. :D
