@@ -1,10 +1,12 @@
 ---
 layout: article
 title: Octopath Traveler - Musik pada Boss Battle
-key: octopath-traveler-battle-music
+key: octopath-traveler-boss-battle-music
 slug: octopath-traveler-boss-battle-music
 description: Pembahasan singkat mengenai Boss Battle Theme pada Octopath Traveler, berdasarkan video YouTube oleh Game Score Fanfare.
 cover: ../../../assets/images/home-icon/octopath-traveler-logo.jpg
+last_modified_at: 2021-04-09 00:00:00 +0700
+sitemap: true
 ---
 
 ![Octopath Traveler - Musik Boss Battle header](../../../assets/images/octopath-traveler-logo.jpg)

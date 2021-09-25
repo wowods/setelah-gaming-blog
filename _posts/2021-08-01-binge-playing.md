@@ -4,6 +4,8 @@ key: binging-short-games
 slug: binging-short-games
 description: Respons terhadapa video Daryl Talks Game tentang "Are you a Binger or Drifter" yang dikaitkan dengan durasi dari sebuah game.
 cover: ../../../assets/images/home-icon/minit-inside.jpg
+last_modified_at: 2021-08-01 00:00:00 +0700
+sitemap: true
 ---
 
 ![Inside and Minit - Binging Short Game header](../../../assets/images/minit-inside.jpg)
