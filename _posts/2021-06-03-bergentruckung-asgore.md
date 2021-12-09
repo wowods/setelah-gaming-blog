@@ -87,7 +87,7 @@ Meskipun Asgore tidak memiliki kemampuan [DETERMINATION](https://undertale.fando
 *Asgore yang selalu tampak tertunduk sepanjang battle.*
 {: centered}
 
-Pada bagian akhir dari musik ini, kita masi mendengar motif   dimainkan, namun dengan nada yang terdengar seperti pertanyaan ataupun menunjukkan kebingungan. Perasaan ini terdengar dari nada yang menjadi lebih tinggi pada bagian akhir ketukannya, seperti sebuah kalimat tanya yang memiliki nada naik pada akhir kalimat. Hal ini semakin menunjukkan perasaan bersalah Asgore atas perbuatannya, meski ia terdeterminasi untuk menjalankan tugasnya sebagai raja, ia juga bertanya-tanya dan merasa ragu apakah langkah yang telah dia ambil ini merupakan tindakan yang tepat atau tidak.  
+Pada bagian akhir dari musik ini, kita masih mendengar motif dimainkan, namun dengan nada yang terdengar seperti pertanyaan ataupun menunjukkan kebingungan. Perasaan ini terdengar dari nada yang menjadi lebih tinggi pada bagian akhir ketukannya, seperti sebuah kalimat tanya yang memiliki nada naik pada akhir kalimat. Hal ini semakin menunjukkan perasaan bersalah Asgore atas perbuatannya, meski ia terdeterminasi untuk menjalankan tugasnya sebagai raja, ia juga bertanya-tanya dan merasa ragu apakah langkah yang telah dia ambil ini merupakan tindakan yang tepat atau tidak.  
 
 {% include embed-audio.html src="/musics/undertale/ending.mp3" caption="Bagian akhir dari musik ASGORE dimulai dengan kebimbangan namun diakhiri dengan tekad yang bulat dan terasa megah." %} 
 
