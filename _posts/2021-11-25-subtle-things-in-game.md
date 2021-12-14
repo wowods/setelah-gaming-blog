@@ -4,7 +4,7 @@ key: hal-hal-kecil-dalam-game
 slug: hal-hal-kecil-dalam-game
 description: Membahas mengenai hal-hal yang kecil dan terkadang kurang disadari oleh pemain dalam sebuah game dan mengapa hal-hal tersebut dapat membuat pandangan saya, sebagai pemain, menjadi lebih mengapresiasi game tersebut.
 cover: ../../../assets/images/home-icon/omori_faraway-picnic.jpg
-last_modified_at: 2021-11-27 11:24:19 +0700
+last_modified_at: 2021-12-14 12:28:19 +0900
 sitemap: true
 ---
 
@@ -41,7 +41,7 @@ Dari alat musik tersebut, kita dapat mengira-ngira seperti apa sifat dan ciri kh
 
 Hal-hal kecil yang dapat memberikan detail lebih juga dapat diaplikasikan pada *aesthetic* dari grafik yang digunakan pada game tersebut. Contohnya misal pada game **OMORI** dan bagaimana penggunaan palet warnanya.
 Dalam game **OMORI**, kita dapat menjelajahi dua dunia yang berbeda. Setiap dunia yang kita jelajahi memiliki palet warna yang khas untuk menggambarkan filosofi dari dunia tersebut. Pada dunia HEADSPACE kita melihat penggunaan warna yang lebih tersaturasi, yang jika kita bandingkan dengan warna-warna yang terlihat pada FARAWAY
-Dalam game **OMORI**, kita dapat menjelajahi dua dunia yang berbeda. Setiap dunia yang kita jelajahi memiliki palet warna yang khas untuk menggambarkan filosofi dari dunia tersebut. Pada dunia HEADSPACE kita melihat penggunaan warna yang lebih tersaturasi, sedangkan warna-warna yang terlihat ketika kita menjelajahi FARAWAY terlihat lebih *vivid,* lebih hidup. Dari perbedaan palet warna yang digunakan antara kedua dunia ini, kita dapat mengira-ngira seperti apa sih ide dibalik masing-masing dunia tersebut ;).
+Dalam game **OMORI**, kita dapat menjelajahi dua dunia yang berbeda. Setiap dunia yang kita jelajahi memiliki palet warna yang khas untuk menggambarkan filosofi dari dunia tersebut. Pada dunia HEADSPACE kita melihat penggunaan warna yang lebih tersaturasi, sedangkan warna-warna yang terlihat ketika kita menjelajahi FARAWAY terlihat lebih *realistis*, lebih hidup. Dari perbedaan palet warna yang digunakan antara kedua dunia ini, kita dapat mengira-ngira seperti apa sih ide dibalik masing-masing dunia tersebut ;).
 
 ![Petunjuk Arah yang natural pada The Last of Us](../../../assets/images/tlou_escapethebar.png)  
 *Coba tebak, ke arah mana kah kita harus berjalan? :)*
