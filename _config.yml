@@ -21,8 +21,6 @@ title   : Setelah Gaming
 tagline : Blog game yang dibaca setelah main game-nya
 description: > # this means to ignore newlines until "Language & timezone"
   Blog gamer yang berusaha membahas game dengan detail
-image   : /assets/images/logo/logo.png
-logo    : /assets/images/logo/logo.png
 
 ## => Language and Timezone
 ##############################
@@ -214,6 +212,10 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/logo/logo.png
 
 
 ## => Plugins
