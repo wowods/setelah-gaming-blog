@@ -4,6 +4,7 @@ key: cerita-abstrak-dalam-game
 slug: cerita-abstrak-dalam-game
 description: Melihat mengapa game dengan cerita yang abstrak tetap diminati oleh pemain, meskipun cerita yang disampaikan terkadang membingungkan dan ambigu.
 cover: ../../../assets/images/home-icon/proteus.png
+image: ../../../assets/images/home-icon/proteus.png
 last_modified_at: 2021-10-30 16:35:42 +0700
 sitemap: true
 ---

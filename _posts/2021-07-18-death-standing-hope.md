@@ -4,6 +4,7 @@ key: death-stranding-cerita-dan-harapan
 slug: death-stranding-cerita-dan-harapan
 description: Melihat sebuah cerita yang dimulai dari harapan, bagaimana perjalanan untuk mencapai harapan tersebut, dan juga akhir dari harapan tersebut dengan melihat cerita dari game Death Stranding.
 cover: ../../../assets/images/home-icon/death-stranding-psychoromantist.jpg
+image: ../../../assets/images/home-icon/death-stranding-psychoromantist.jpg
 last_modified_at: 2021-07-18 00:00:00 +0700
 sitemap: true
 ---

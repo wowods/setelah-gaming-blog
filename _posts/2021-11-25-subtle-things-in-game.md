@@ -4,6 +4,7 @@ key: hal-hal-kecil-dalam-game
 slug: hal-hal-kecil-dalam-game
 description: Membahas mengenai hal-hal yang kecil dan terkadang kurang disadari oleh pemain dalam sebuah game dan mengapa hal-hal tersebut dapat membuat pandangan saya, sebagai pemain, menjadi lebih mengapresiasi game tersebut.
 cover: ../../../assets/images/home-icon/omori_faraway-picnic.jpg
+image: ../../../assets/images/home-icon/omori_faraway-picnic.jpg
 last_modified_at: 2021-12-14 12:28:19 +0900
 sitemap: true
 ---
