@@ -4,7 +4,7 @@ key: cerita-dan-musik-video-game
 slug: cerita-dan-musik-video-game
 description: Membahas mengenai penggunaan musik/soundtrack dalam video game untuk mendukung atau menyampaikan sebuah pesan dalam cerita dari game tersebut.
 cover: ../../../assets/images/home-icon/ffix_cover.jpg
-last_modified_at: 2022-01-20 01:02:03 +0700
+last_modified_at: 2022-01-19 17:08:03 +0700
 sitemap: true
 ---
 
@@ -22,7 +22,7 @@ Tulisan ini mengandung ***major spoiler*** pada game Final Fantasy IX dan UNDERT
 Pada game **Final Fantasy IX**, tema utama ceritanya ialah mengenai pencarian jati diri. Maka tak heran jika pada game tersebut kita melihat  
 putri ***Garnet*** yang mencoba mengubah namanya menjadi *Dagger*;  
 ***Vivi*** yang bertanya-tanya mengenai apa sih dirinya;  
-***Quina*** yang disuruh untuk mencoba berbagai jenis kodok yang ada dipenjuru dunia; dan juga  
+***Quina*** yang disuruh untuk mencoba berbagai jenis kodok yang ada di penjuru dunia; dan juga  
 ***Steiner*** yang galau antara menjalankan perintah dari ratunya atau patuh akan kewajibannya untuk melindungi putri *Garnet*.  
 
 Ketika cerita berlanjut, tema cerita dari game inipun berkembang sehingga tidak hanya sekedar mencari dan menemukan jati diri namun juga bagaimana menghadapi dan menjalankan kehidupan mereka setelah mengetahui tentang jati diri mereka. Terlihat dari  
@@ -33,7 +33,7 @@ dan tentu saja ***Zidane*** setelah bertemu langsung dengan Garland, mengetahui 
 
 Tentu saja pesan dari game ini tak hanya untuk terus melangkah ke depan, terlepas dari jati diri ataupun masa lalu kita, tetapi juga kita tidak pernah bisa dan tidak akan mampu untuk berjalan sendiri dan pesan ini disampaikan melalui salah satu musik yang dimainkan ketika cerita Final Fantasy IX ini sedang pada titik puncaknya, yaitu ***You're Not Alone***.  
 Musik *You're Not Alone*, sebagai musik yang digunakan pada momen resolusi dari masalah jati diri tokoh utamanya, terdengar begitu berbeda dibandingkan musik-musik lainnya pada game tersebut. Jika kita perhatikan musik-musik lainnya yang mengusung tema *medieval*, musiknya didominasi oleh *woodwind*, *brass instrument*, dan organ yang juga ditemani oleh instrumen-instrumen klasik seperti piano, biola, dan gitar akustik. Namun pada musik You're Not Alone, dengan jelas terdengar efek dari gitar listrik yang tak pernah terdengar pada musik lainnya dan membuat musik ini terdengar lain dari yang lain.  
-Bagi saya, dengan menggunakan musik yang terdengar *berbeda*, membuat saya menjadi lebih menyadarai bahwa momen tersebut merupakan sebuah momen khusus yang ingin di-*highlight* oleh *developer* game tersebut.
+Bagi saya, dengan menggunakan musik yang terdengar *berbeda*, membuat saya menjadi lebih menyadari bahwa momen tersebut merupakan sebuah momen khusus yang ingin di-*highlight* oleh *developer* game tersebut.
 
 ![FFIX - Zidane after know about his true identity](../../../assets/images/ffix_youre-not-alone.png)  
 {: centered} 
@@ -44,9 +44,9 @@ Dalam Game UNDERTALE, ketika sedang dalam perjalanan menuju ke tempat ASGORE unt
 ![Undertale - Despite everything, it's still you](../../../assets/images/undertale_its-still-you.png)  
 {: centered} 
 
-Tentu saja penggunaan musik seperti ini tidak hanya terbatas untuk menyampaikan sebuah pesan dari cerita game tersebut. Seperti contaoh pada Final Fantasy IX, musik *You're Not Alone* terus diperdengarkan meskipun kita sudah memasuki *battle screen*. Hal yang serupa juga digunakan pada game *Final Fantasy* yang lain yaitu pada **Final Fantasy 7** ketika melawan bos terakhir di *disc* 1 dan pada **Final Fantasy X** ketika akhirnya kita berhasil mencapai *Zanarkand*. Momen ini berusah mengingatkan pemainnya tentang makna dari *battle* yang sedang mereka jalani melalui musik tersebut.  
+Tentu saja penggunaan musik seperti ini tidak hanya terbatas untuk menyampaikan sebuah pesan dari cerita game tersebut. Seperti contoh pada Final Fantasy IX, musik *You're Not Alone* terus diperdengarkan meskipun kita sudah memasuki *battle screen*. Hal yang serupa juga digunakan pada game *Final Fantasy* yang lain yaitu pada **Final Fantasy 7** ketika melawan bos terakhir di *disc* 1 dan pada **Final Fantasy X** ketika akhirnya kita berhasil mencapai *Zanarkand*. Momen ini berusaha mengingatkan pemainnya tentang makna dari *battle* yang sedang mereka jalani melalui musik tersebut.  
 
-Apakah kalian juga memiliki momen ketika bermain video game dan menyadari seusatu ketika mendengarkan musiknya?
+Apakah kalian juga memiliki momen ketika bermain video game dan menyadari sesuatu ketika mendengarkan musiknya?
 
 ---
 
