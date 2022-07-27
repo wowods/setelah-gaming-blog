@@ -48,6 +48,33 @@ For example sometimes there're some coins that will lead you to somewhere. These
 Talking about point of interest, beside using a trails of coins to lead you to certain places, the game also put binoculars in some place that will help you to found another point of interest, like a lighthouse, a silhouette of faraway island, or an intriguing colums of air.
 
 ---
+
+#### Timestamp
+- Finding shellfish
+  - 003 -> 00:26:10
+- Camping permit
+  - 002 -> 00:16:55
+  -     -> 00:34:13
+  -     -> 01:03:15
+  - 003 -> 00:27:34
+- Finding watch
+  - 002 -> 00:11:08
+  -     -> 00:21:10
+  - 003 -> 00:02:30
+- Sue's lucky headband
+  - 002 -> 00:14:42
+  -     -> 00:18:07
+- Painter quest
+  - 002 -> 00:22:14
+  -     -> 00:26:44
+  -     -> 00:58:25
+  -     -> 01:21:25
+- Some useless convo
+  - 002 -> 00:39:50
+  -     -> 01:02:32
+- FINISH [003 -> 00:13:05]
+
+---
 1. About the NPC and the conversation, not just generic NPC and simple quest
 2. How the quest is designed, some of them are not a single tasks to be done but chained task that we need to be doing one by one. Plus, it will have “multiple” solution.
 3. How they force you to follow something, by using coins, by adding “interesting point”, etc.
