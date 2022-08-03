@@ -3,8 +3,7 @@ title: Undertale - Bergentrückung dan ASGORE
 key: undertale-bergentruckung-asgore
 slug: undertale-bergentruckung-asgore
 description: Pembahasan secara detil terkait impresi dan makna yang saya dapatkan dari musik Undertale, Bergentrückung dan ASGORE, dikaitkan dengan karakter Asgore Dreemur.
-cover: ../../../assets/images/home-icon/undertale-album.png
-image: ../../../assets/images/home-icon/undertale-album.png
+cover: /assets/images/home-icon/undertale-album.png
 last_modified_at: 2021-06-03 00:00:00 +0700
 sitemap: true
 ---

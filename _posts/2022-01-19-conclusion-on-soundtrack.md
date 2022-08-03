@@ -3,7 +3,7 @@ title: Cerita dan Musik dalam Video Game
 key: cerita-dan-musik-video-game
 slug: cerita-dan-musik-video-game
 description: Membahas mengenai penggunaan musik/soundtrack dalam video game untuk mendukung atau menyampaikan sebuah pesan dalam cerita dari game tersebut.
-cover: ../../../assets/images/home-icon/ffix_cover.jpg
+cover: /assets/images/home-icon/ffix_cover.jpg
 last_modified_at: 2022-01-19 17:08:03 +0700
 sitemap: true
 ---

@@ -3,7 +3,7 @@ title: A Short Hike - Sebuah Game Open-World yang Kecil
 key: a-short-hike-small-open-world
 slug: a-short-hike-small-open-world
 description: A Short Hike adalah sebuah  game yang menunjukkan bahwa game open-world tidak selalu memerlukan dunia yang luas untuk bisa dinikmati. Pada artikel ini, apa yang membuat A Short Hike dapat memotivasi pemainnya untuk mengekplorasi dunianya.
-cover: ../../../assets/images/logo/logo.png
+cover: /assets/images/logo/logo.png
 last_modified_at: 2022-07-24 10:10:12 +0700
 sitemap: true
 ---

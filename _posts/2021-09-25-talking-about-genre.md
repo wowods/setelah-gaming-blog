@@ -3,8 +3,7 @@ title: Berbicara Tentang Genre
 key: berbicara-tentang-genre
 slug: berbicara-tentang-genre
 description: Membahas mengenai genre video game, apakah penggunaan genre ini penting dan diperlukan atau hanya sebuah istilah yang malah membuat orang-orang menjadi lebih bingung terhadap video game tersebut.
-cover: ../../../assets/images/home-icon/cod-csgo.png
-image: ../../../assets/images/home-icon/cod-csgo.png
+cover: /assets/images/home-icon/cod-csgo.png
 last_modified_at: 2021-09-25 17:31:00 +0700
 sitemap: true
 ---

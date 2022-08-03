@@ -3,7 +3,7 @@ title: Inscryption dan Meta game
 key: inscryption-dan-meta-game
 slug: inscryption-dan-meta-game
 description: Pembahasan mengenai meta-game dan mengapa game yang memiliki karakteristik tersebut sulit untuk dibahas. Dalam tulisan ini, game yang dijadikan fokus ialah game Inscryption.
-cover: ../../../assets/images/home-icon/inscryption-banner.png
+cover: /assets/images/home-icon/inscryption-banner.png
 last_modified_at: 2022-03-17 22:40:35 +0700
 sitemap: true
 ---

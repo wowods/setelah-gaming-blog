@@ -3,7 +3,7 @@ title: Opsi Pemain dalam Playstyle sebuah Game
 key: opsi-pemain-dalam-playstyle-sebuah-game
 slug: opsi-pemain-dalam-playstyle-sebuah-game
 description: Pembahasan terkait opsi yang diberikan kepada pemain terhadap playstyle yang diperbolehkan secara desain dari sebuah video game.
-cover: ../../../assets/images/home-icon/mgs5_analyser.jpg
+cover: /assets/images/home-icon/mgs5_analyser.jpg
 last_modified_at: 2022-02-15 18:59:59 +0700
 sitemap: true
 ---
