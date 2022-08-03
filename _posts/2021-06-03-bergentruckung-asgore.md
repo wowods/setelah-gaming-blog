@@ -8,11 +8,11 @@ image: ../../../assets/images/home-icon/undertale-album.png
 last_modified_at: 2021-06-03 00:00:00 +0700
 sitemap: true
 ---
-{:centered: style="text-align: center;"}
 {% include embed-audio-autopause.html %}
 
-![Undertale Album Artwork](../../../assets/images/undertale-album.png)  
-{: centered}  
+<figure><center>
+<img src="/assets/images/undertale-album.png" alt="Undertale Album Artwork" style="width:100%">
+</center></figure>
 
 [Undertale](https://undertale.com/) memang memiliki soundtrack yang terkenal, dan saya juga mengenal game ini pertama kali dari *soundtrack*-nya. Saya tak ingat persis musik Undertale apa yg pertama kali saya dengar, namun tak perlu waktu yang lama hingga rekomendasi YouTube saya dipenuhi dengan musik-musiknya. :D
 
@@ -31,9 +31,10 @@ Tulisan ini merupakan sudut pandang saya sebagai seorang *gamer*, bukan sebagai 
 Pertama, mari kita bahas mengenai musik *Bergentrückung*, dimana anda dapat merasakan kemuraman dari musik ini. Saya akan menganggap musik ini sebagai musik tema bagi karakter Asgore.  
 Dalam ceritanya, ketika kita pertama kali bertemu dengan Asgore, ia telah kehilangan anaknya (dan juga anak angkatnya), ditinggal pergi oleh istrinya, dan juga dengan "terpaksa" mengumpulkan 6 **SOUL**. Dia berusaha mengakhiri hal ini semua dengan mengumpulkan SOUL ketujuh, dengan melawan kita. Bahkan jika Asgore berhasil mengalahkan kita, ketika kita melawannya kembali (dengan kekuatan **DETERMINATION**) dan mengatakan bahwa ia telah berhasil membunuh kita untuk kesekian kalinya, ia mengangguk dengan sedih. Kemuraman inilah, yang menurut saya, digambarkan dengan baik melalui musik *Bergentrückung*.  
 
-![Undertale - Asgore on golden flower field](../../../assets/images/undertale-asgore-golden-flower.png){: height="50%" width="50%"}  
-*Asgore Dreemur di ruang singgasananya yang dipenuhi dengan Golden Flower.*
-{: centered} 
+<figure><center>
+<img src="/assets/images/undertale-asgore-golden-flower.png" alt="Undertale - Asgore on golden flower field" style="width:50%; height:50%">
+<figcaption align="center">Asgore Dreemur di ruang singgasananya yang dipenuhi dengan Golden Flower.</figcaption>
+</center></figure>
 
 Jika kita mencari arti kata *Bergentrückung*, anda akan menemukan bahwa kata ini memiliki arti ***"King in the Mountain"***, yang sering digunakan pada folklore untuk menggambarkan seorang pahlawan legendaris yang menyendiri di sebuah gunung, menunggu waktu yang tepat bagi dirinya untuk menyelamatkan dunia.  
 
@@ -53,9 +54,10 @@ Kita juga dapat mendengar irama *Bergentrückung* pada pembukaan dari musik ASGO
 
 Bagian kedua dari musik ASGORE memiliki [**motif**](https://undertale.fandom.com/wiki/Leitmotifs) yang sama dengan musik [**Heartache**](https://undertale.fandom.com/wiki/Leitmotifs#Minor_Leitmotifs), namun dengan sedikit perbedaan. Secara umum perbedaannya terlihat dari tempo yang lebih cepat dan juga dentuman drumnya, sehingga bagian ini menjadi cocok dengan bagian musik lainnya, yang digunakan sebagai *boss battle theme*.
 
-![Undertale - Asgore in front of barrier](../../../assets/images/undertale-asgore-barrier.jpg){: height="70%" width="70%"}  
-*Asgore dan karakter utama berdiri di depan barrier.*
-{: centered} 
+<figure><center>
+<img src="/assets/images/undertale-asgore-barrier.jpg" alt="Undertale - Asgore in front of barrier" style="width:70%; height:70%">
+<figcaption align="center">Asgore dan karakter utama berdiri di depan barrier.</figcaption>
+</center></figure>
 
 Jika diperhatikan dengan seksama, awal dari motif *Heartache* ini diulang sebanyak enam kali dengan beberapa jenis variasi. Jika dilihat dari jumlah pengulangannya, hal ini menunjukkan situasi Asgore yang telah berhasil mengumpulkan 6 SOUL, dengan membunuh orang-orang yang terjatuh ke *Underworld*. Dengan demikian motif ini menunjukkan perasaan Asgore ketika mengumpulkan keenam SOUL tersebut, dimana jauh di dalam dirinya, hatinya merasa sakit untuk melakukan hal tersebut.  
 
@@ -83,10 +85,10 @@ Musik ASGORE diakhiri dengan motif yang sama dengan musik **Determination**, kar
 
 Meskipun Asgore tidak memiliki kemampuan [DETERMINATION](https://undertale.fandom.com/wiki/Determination), uniknya [motif musik *Determination*](https://undertale.fandom.com/wiki/Leitmotifs#Determination) ini erat kaitannya dengan Asgore, yang hanya terdengar pada layar *Game Over* dengan teks yang diucapkan oleh Asgore dan pada musik *battle* dengan Asgore. Hal ini menunjukkan bahwa Asgore memiliki determinasi yang kuat, meski bukan dalam bentuk kemampuan yang sama seperti DETERMINATION yang dimiliki oleh karakter utama kita. Asgore sebagai raja dari *Underworld*, selalu berusaha memberikan harapan bagi bangsanya, tak peduli meski dirinya harus melakukan banyak pengorbanan. Determinasi inilah yang terlihat dan dimiliki oleh Asgore.
 
-
-![Undertale - Asgore battle stance](../../../assets/images/undertale-asgore-battle.jpg){: height="70%" width="70%" }  
-*Asgore yang selalu tampak tertunduk sepanjang battle.*
-{: centered}
+<figure><center>
+<img src="/assets/images/undertale-asgore-battle.jpg" alt="Undertale - Asgore battle stance" style="width:70%; height:70%">
+<figcaption align="center">Asgore yang selalu tampak tertunduk sepanjang battle.</figcaption>
+</center></figure>
 
 Pada bagian akhir dari musik ini, kita masih mendengar motif dimainkan, namun dengan nada yang terdengar seperti pertanyaan ataupun menunjukkan kebingungan. Perasaan ini terdengar dari nada yang menjadi lebih tinggi pada bagian akhir ketukannya, seperti sebuah kalimat tanya yang memiliki nada naik pada akhir kalimat. Hal ini semakin menunjukkan perasaan bersalah Asgore atas perbuatannya, meski ia terdeterminasi untuk menjalankan tugasnya sebagai raja, ia juga bertanya-tanya dan merasa ragu apakah langkah yang telah dia ambil ini merupakan tindakan yang tepat atau tidak.  
 

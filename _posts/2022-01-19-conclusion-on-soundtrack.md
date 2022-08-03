@@ -8,9 +8,9 @@ last_modified_at: 2022-01-19 17:08:03 +0700
 sitemap: true
 ---
 
-{:centered: style="text-align: center;"}
-
-![FFIX You're Not Alone - Cerita dan Musik dalam Video Game header](../../../assets/images/ffix_cover.jpg)
+<figure><center>
+<img src="/assets/images/ffix_cover.jpg" alt="FFIX You're Not Alone - Cerita dan Musik dalam Video Game header">
+</center></figure>  
 
 Cerita dan musik merupakan dua aspek yang penting dalam sebuah video game. Penggunaan musik di momen cerita yang tepat dapat membuat pemain mendapatkan *feeling* dan atmosfer yang tepat sesuai dengan keinginan dari *developer*-nya. Tak heran jika game memiliki musik *battle* yang berbeda ketika sedang melawan *boss* untuk membuat pemain merasa bahwa *battle boss* yang sedang mereka jalani ini berbeda dengan *battle-battle* biasanya.  
 Namun tak hanya memberikan *"peringatan"* kepada pemainnya terhadap nuansa dan situasi yang yang sedang dialami dalam game, tetapi menurut saya, musik juga dapat membuat pemainnya menjadi *ngeh* terhadap alur cerita yang sedang mereka mainkan merupakan sebuah alur cerita yang penting dalam game tersebut.  
@@ -35,14 +35,16 @@ Tentu saja pesan dari game ini tak hanya untuk terus melangkah ke depan, terlepa
 Musik *You're Not Alone*, sebagai musik yang digunakan pada momen resolusi dari masalah jati diri tokoh utamanya, terdengar begitu berbeda dibandingkan musik-musik lainnya pada game tersebut. Jika kita perhatikan musik-musik lainnya yang mengusung tema *medieval*, musiknya didominasi oleh *woodwind*, *brass instrument*, dan organ yang juga ditemani oleh instrumen-instrumen klasik seperti piano, biola, dan gitar akustik. Namun pada musik You're Not Alone, dengan jelas terdengar efek dari gitar listrik yang tak pernah terdengar pada musik lainnya dan membuat musik ini terdengar lain dari yang lain.  
 Bagi saya, dengan menggunakan musik yang terdengar *berbeda*, membuat saya menjadi lebih menyadari bahwa momen tersebut merupakan sebuah momen khusus yang ingin di-*highlight* oleh *developer* game tersebut.
 
-![FFIX - Zidane after know about his true identity](../../../assets/images/ffix_youre-not-alone.png)  
-{: centered} 
+<figure><center>
+<img src="/assets/images/ffix_youre-not-alone.png" alt="FFIX - Zidan after know about his true identity">
+</center></figure>  
 
 Tentu tak hanya Final Fantasy IX saja yang menggunakan *trik* seperti ini untuk menyampaikan tema ceritanya melalui musik, namun game **UNDERTALE** juga melakukan hal yang serupa.  
 Dalam Game UNDERTALE, ketika sedang dalam perjalanan menuju ke tempat ASGORE untuk melawannya sebagai bos terakhir, kita disuguhi musik yang berjudul ***Undertale*** dan sepanjang musik ini diputar kita diceritakan lebih detail mengenai sejarah dunia *Underground* dari perspektif para penghuninya. Meski musik *Undertale* ini terdengar cukup familiar karena memiliki leitmotif dengan lagu yang sudah kita dengan sebelumnya, namun untuk pertama kalinya dalam game ini kita mendengarkan musik yang menggunakan gitar akustik (yang dimainkan oleh *Stephanie MacIntire*). Pada momen tersebutlah kita sebagai pemain, akan menyadari bahwa pada game UNDERTALE, bukan ingin menceritakan mengenai peristiwa-peristiwa yang terjadi dari sisi manusia melainkan cerita dari sisi para monsternya.  
 
-![Undertale - Despite everything, it's still you](../../../assets/images/undertale_its-still-you.png)  
-{: centered} 
+<figure><center>
+<img src="/assets/images/undertale_its-still-you.png" alt="Undertale - Despite everything, it's still you">
+</center></figure>  
 
 Tentu saja penggunaan musik seperti ini tidak hanya terbatas untuk menyampaikan sebuah pesan dari cerita game tersebut. Seperti contoh pada Final Fantasy IX, musik *You're Not Alone* terus diperdengarkan meskipun kita sudah memasuki *battle screen*. Hal yang serupa juga digunakan pada game *Final Fantasy* yang lain yaitu pada **Final Fantasy 7** ketika melawan bos terakhir di *disc* 1 dan pada **Final Fantasy X** ketika akhirnya kita berhasil mencapai *Zanarkand*. Momen ini berusaha mengingatkan pemainnya tentang makna dari *battle* yang sedang mereka jalani melalui musik tersebut.  
 

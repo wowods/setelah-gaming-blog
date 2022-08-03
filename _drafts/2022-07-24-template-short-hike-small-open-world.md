@@ -10,6 +10,7 @@ sitemap: true
 
 <figure><center>
 <img src="/assets/images/logo/logo.png" alt="Header - A Short Hike Sebuah Game Open-World yang Kecil" style="width:100%">
+<figcaption align="center"><i>A Short Hike memiliki musik yang dinamis, yang perlahan-lahan berubah mengikuti lokasi dan pergerakan kita.</i></figcaption>
 </center></figure>
 
 ---

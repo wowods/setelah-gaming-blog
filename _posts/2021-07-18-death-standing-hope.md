@@ -8,11 +8,11 @@ image: ../../../assets/images/home-icon/death-stranding-psychoromantist.jpg
 last_modified_at: 2021-07-18 00:00:00 +0700
 sitemap: true
 ---
-{:centered: style="text-align: center;"}
 
-![Death Stranding Header](../../../assets/images/death-stranding-psychoromantist.jpg)  
-*Screenshot Death Stranding oleh Psychoromantist ([source](https://twitter.com/psychoromantist/status/1412644280833699844){:target="_blank"}).*
-{: centered}  
+<figure><center>
+<img src="/assets/images/death-stranding-psychoromantist.jpg" alt="Death Stranding Header" style="width:100%">
+<figcaption align="center">Screenshot Death Stranding oleh Psychoromantist (<a href="https://twitter.com/psychoromantist/status/1412644280833699844" target="_blank">source</a>).</figcaption>
+</center></figure>
 
 **Death Stranding**, merupakan sebuah anomali dalam video game. Di produksi oleh **Kojima Productions**, game ini terlihat sangat berbeda dengan game-game buatan mereka sebelumnya, bahkan jika dibandingkan dengan game manapun, Death Stranding tampak berada di dunianya sendiri, tanpa ada pembandingnya.
 
@@ -31,8 +31,9 @@ Mungkin, karena seperti itulah harapan bekerja pada kenyataannya. Terkadang ada 
 
 ### Perjalanan untuk Memenuhi Harapan
 
-![Death Stranding Header](../../../assets/images/death-stranding-mountain-knot-city.jpg)  
-{: centered}  
+<figure><center>
+<img src="/assets/images/death-stranding-mountain-knot-city.jpg" alt="Death Stranding - Mountain Knot City" style="width:100%">
+</center></figure>
 
 Jika harapan digunakan untuk memulai sebuah cerita, bagaimana dengan isi dan perjalanan dari cerita tersebut? Tentu saja ia akan menceritakan bagaimana proses dan usahanya untuk memenuhi harapan tersebut, hingga menjadi kenyataan.  
 Dan bagi Sam, dan juga bagi banyak orang, harapan inilah yang membuat dirinya terus berjuang melewati semua hal yang berbahaya, menyebalkan, membosankan, dan lainnya. Meski setiap kali ia menyelesaikan tugas yang diberikan kepadanya, ia akan diberikan lagi tugas baru yang lebih berbahaya, lebih menyebalkan, dan sama membosankan. Hal ini terus berulang selama perjalanannya, dengan kondisi yang baru, dengan orang-orang yang berbeda, dengan kondisi lingkungan yang semakin sulit.  
@@ -47,8 +48,9 @@ Hal ini tidak berbeda jauh dengan kehidupan nyata, yang mana kita terbiasa meren
 
 Harapan, hanya dapat menjadi harapan ketika hal tersebut belumlah tercapai. Namun, setelah harapan tersebut sudah tercapai dan terpenuhi, hal tersebut sudah berubah menjadi kenyataan dan cerita tentang harapan tersebut pun akan berakhir.  
 
-![Death Stranding Header](../../../assets/images/death-stranding-extinction.png)  
-{: centered}  
+<figure><center>
+<img src="/assets/images/death-stranding-extinction.png" alt="Death Stranding - Extinction" style="width:100%">
+</center></figure> 
 
 Hal ini tercermin pada cerita Death Stranding yang berakhir ketika Sam berhasil bertemu kembali dengan Amelie dan mendapatkan penjelasan yang panjang lebar mengenai dirinya, Sam, dan juga keseluruhan peristiwa Death Stranding. Juga diakhiri dengan keberhasilan UCA untuk menyatukan kembali kota-kota yang ada dalam jaringan *Chiral* yang terbentang hingga ke barat.  
 

@@ -8,9 +8,9 @@ last_modified_at: 2022-02-15 18:59:59 +0700
 sitemap: true
 ---
 
-{:centered: style="text-align: center;"}
-
-![image header](../../../assets/images/mgs5_analyser.jpg)
+<figure><center>
+<img src="/assets/images/mgs5_analyser.jpg" alt="Opsi Pemain dalam Playstyle sebuah Game header">
+</center></figure>  
 
 Video game merupakan sebuah media interaktif yang membuat pemainnya memiliki banyak opsi untuk menentukan ke arah mana narasi game yang sedang dimainkan. Memang tidak semua game memberikan pilihan kepada pemainnya untuk dapat mengubah cerita dari game tersebut, namun narasi yang saya maksud tidak hanya terbatas pada cerita saja. Misal pag sebuah game, bisa saja anda membuat karakter anda menjadi seorang yang barbar, yang selalu menyelesaikan masalah dengan adu pukul langsung. Namun anda juga bisa saja memainkan game yang sama dengan karakter yang lebih berhati-hati seperti melakukan banyak *stealth mission* atau memilih cara yang lebih damai dalam menyelesaikan masalah.
 
@@ -20,9 +20,10 @@ Atau juga pada game **Control** yang meskipun kedua kemampuan ofensif kita yaitu
 
 Namun kadang, developer dan designer game terlalu memaksa pemainnya untuk menghindari *playstyle* tertentu pada game mereka. Hal ini bisa kita lihat contohnya dari adanya *Turn Timer* pada game **XCOM 2** yang memaksa pemainnya untuk bermain lebih *rush* dan mengambil banyak resiko daripada memainkan game tersebut dengan lebih lambat dan berhati-hati pada pergerakan mereka. Dan tentu saja hal ini mendapat kritik yang keras dari pemainnya yang merasakan design game tersebut benar-benar menghukum mereka yang memainkan game ini dengan *playstyle* yang lambat dan berhati-hati. Hal ini tak terlepas dari efek *Turn Timer* yang akan membuat misi anda gagal jika tidak diselesaikan dalam kurun waktu yang telah ditentukan tersebut.  
 
-![Turn Timer pada XCOM2](../../../assets/images/xcom2_turntimer.jpg)
-*Turn Timer pada XCOM2 yang membuat pemain harus menyelesaikan misi tersebut sebelum timer menyentuh angka 0.*
-{: centered} 
+<figure><center>
+<img src="/assets/images/xcom2_turntimer.jpg" alt="Turn Timer pada XCOM2">
+<figcaption>Turn Timer pada <b>XCOM2</b> yang membuat pemain harus menyelesaikan misi tersebut sebelum timer menyentuh angka 0.</figcaption>
+</center></figure>  
 
 Sebenarnya hal ini pernah ditangani dengan baik oleh developer *XCOM 2*, *Firaxis Games*, pada game mereka sebelumnya yaitu **XCOM: Enemy Within**. Pada game *XCOM: Enemy Within*, pemain tidak dipaksa untuk bermain dengan terburu-buru, tetapi pemain yang berani mengambil resiko tersebut akan mendapatkan *reward* berupa **Meld** yang merupakan salah satu *resource* dalam game tersebut yang dapat digunakan untuk meng-*upgrade* pasukan yang kita miliki dengan kemampuan-kemampuan yang baru.  
 
@@ -31,8 +32,9 @@ Pendekatan ini tentu lebih dipilih oleh pemain, salah satu alasannya karena efek
 
 Contoh lain dari game yang berusaha untuk membuat pemainnya menggunakan *playstyle* tertentu, namun tetap memberikan kebebasan pada pemainnya untuk memilih ialah game **UNDERTALE**.  
 
-![Tutorial oleh Toriel pada UNDERTALE](../../../assets/images/undertale_tutoriel.png)
-{: centered} 
+<figure><center>
+<img src="/assets/images/undertale_tutoriel.png" alt="Tutorial oleh Toriel pada UNDERTALE">
+</center></figure>  
 
 Dalam UNDERTALE, idealnya kita berusaha untuk berbicara kepada setiap monster yang kita hadapi dan berusaha menyelesaikan konflik tersebut secara damai, seperti yang diajarkan pada tutorial game tersebut. Namun, bukan tak mungkin bagi kita untuk menghadapi pertemuan tersebut dengan cara yang "klasik", dengan menggunakan kekerasan seperti game-game JRPG pada umumnya. Tentu jika kita menggunakan cara ini, kita tidak dapat memperoleh *ending* cerita yang terbaik tetapi disisi lain kita dapat menempuh rute khusus yaitu *Genocide Route* untuk mendapatkan akhir cerita yang khusus pula.  
 

@@ -10,7 +10,9 @@ sitemap: true
 
 {:centered: style="text-align: center;"}
 
-![image header](../../../assets/images/inscryption-banner.png)
+<figure><center>
+<img src="/assets/images/inscyption-banner.png" alt="Inscryption dan Meta game header">
+</center></figure>  
 
 Saya sangat ingin sekali membahas game **Inscryption**, namun bagi saya hal ini cukup sulit dilakukan tanpa meng-*spoiler* game tersebut, yang tentu saja jika anda belum memainkannya maka anda akan merasa kehilangan *charm* dan juga pengalaman anda akan berbeda ketika nantinya anda akan memainkan game tersebut.  
 Jadi, saya di sini hanya bisa merekomendasikan anda untuk mencoba memainkan game tersebut, tanpa bisa memberi terlalu banyak petunjuk terkait game tersebut.
