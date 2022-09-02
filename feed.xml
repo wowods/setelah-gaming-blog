@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://setelahgaming.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://setelahgaming.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-09-02T15:44:47+07:00</updated><id>https://setelahgaming.com/feed.xml</id><title type="html">Setelah Gaming</title><subtitle>Blog gamer yang berusaha membahas game dengan detail
+</subtitle><author><name>Setelah Gaming</name></author><entry><title type="html">Urgensi pada Unsighted</title><link href="https://setelahgaming.com/sense-of-urgency-in-unsighted/" rel="alternate" type="text/html" title="Urgensi pada Unsighted" /><published>2022-09-02T00:00:00+07:00</published><updated>2022-09-02T14:14:31+07:00</updated><id>https://setelahgaming.com/sense-of-urgency-in-unsighted</id><content type="html" xml:base="https://setelahgaming.com/sense-of-urgency-in-unsighted/"><![CDATA[<figure><center>
+<img src="/assets/images/unsighted-banner.jpg" alt="Header - Urgensi pada Unsighted" style="width:100%" />
+</center></figure>
+
+<p><strong>Unsighted</strong> merupakan sebuah game <em>top-down action</em> yang memiliki elemen metroidvania di dalamnya yang mana ketika kita mendapatkan <em>gears</em> baru, kita juga mendapatkan cara baru dalam melakukan pergerakan dan melintasi halangan yang ada, seperti sepatu yang memberikan kemampuan <em>wall-jump</em> sehingga kita dapat mencapai lokasi yang lebih tinggi,  sebuah <em>spinner</em> yang dapat menghancurkan bebatuan yang sebelumnya menghalangi perjalanan kita, atau sebuah <em>hookshot</em> yang memungkinkan kita untuk berayun di antara dinding seperti Spiderman :D.</p>
+
+<figure><center>
+<img src="/assets/images/unsighted-exploration.gif" alt="Unsighted - Highlight In-game Movement" style="width:70%" />
+<figcaption align="center"><i>Highlight beberapa pergerakan yang dapat kita lakukan di game Unsighted.</i></figcaption>
+</center></figure>
+
+<p>Cerita <em>Unsighted</em> berfokus pada sebuah kota bernama Arcadia yang menjadi tempat tinggal bagi para <em>automaton</em>, seperti protagonis kita <strong>Alma</strong>, yang memiliki kesadaran layaknya manusia akibat pengaruh dari Anima. Ketika Anima yang dimiliki oleh sebuah automaton habis, mereka akan kehilangan kesadarannya dan menjadi agresif yang mana kondisi itu disebut <em>“unsighted”</em>. Jadi, dalam game ini, setiap NPC yang kita temui memiliki waktu yang menunjukkan seberapa banyak waktu yang mereka miliki sebelum mereka menjadi <em>unsighted</em>. Mekanik game ini membuat kita sebagai pemainnya memiliki <strong><em>sense of urgency</em></strong>, bahwa ada sesuatu yang genting yang harus segera diselesaikan.</p>
+
+<p>Kita sering melihat video game yang memiliki momen ketika ketika hal genting yang perlu kita selesaikan sesegera mungkin, namun jarang sekali game memberikan perasaan urgensi ini kepada pemainnya. Tak jarang kita merasa bahwa apapun yang kita lakukan tidak mempengaruhi jalannya waktu pada <em>main quest</em> game tersebut. Hal ini umumnya terjadi pada game <em>open-world</em> yang memberikan kebebasan pada pemainnya. Akibatnya, terkadang kita tidak merasa adanya urgensi pada momen atau cerita dari sebuah misi pada game tersebut. Seperti contoh pada game Final Fantasy XV, meskipun diceritakan bahwa kita ingin bertemu dengan Lunafreya, namun tetap saja hal tersebut tidak menghalangi Noctis untuk memancing dengan santai atau menghabiskan waktu berjalan-jalan dan berkemah bersama teman-temannya.</p>
+<figure><center>
+<img src="/assets/images/ffxv-noctis_fishing.png" alt="Final Fantasy XV - Noctis got a fish" style="width:100%" />
+<figcaption align="center"><i>Noctis berhasil mendapatkan ikan, kita dapat dengan santai memancing bersama Noctis.</i></figcaption>
+</center></figure>
+<p>Tentu ada game yang mendesak pemainnya dengan memberikan <em>time limit _untuk menyelesaikan sebuah _quest</em> atau misi, contoh nya pada <em>Final Fantasy 7</em> ketika kita berusaha melarikan diri dari Mako Reactor 1 atau pada <em>Final Fantasy 8</em> ketika kita berusaha kabur dari X-ATM092 sewaktu misi di <em>Dollet</em>. Namun hal ini umumnya hanya diimplementasikan pada beberapa momen/<em>quest</em> dari sebuah game dan tidak diterapkan sepanjang game tersebut.</p>
+<figure><center>
+<img src="/assets/images/finalfantasy-battle_with_timer.png" alt="FF7 Escape Mako Reactor and FF8 Fighting X-ATM092" style="width:100%" />
+<figcaption align="center"><i>Final Fantasy 7 ketika kita kabur dari Mako Reactor 1 dan Final Fantasy 8 ketika melawan X-ATM092 pada misi di Dollet.<br />Kita dapat melihat pada kedua momen tersebut, terdapat timer pada pojok kanan atas layar, yang mendesak pemain untuk bergerak dengan cepat.</i></figcaption>
+</center></figure>
+
+<p>Hal ini yang membuat mekanik <em>Unsighted</em> yang mampu memberikan <em>sense of urgency</em> pada pemainnya menjadi menarik.<br />
+Pada awal permainan mungkin anda melihat banyak NPC yang memiliki waktu yang cukup panjang hingga ratusan jam (berdasarkan waktu di dalam game aka <em>in-game time</em>), namun seiring berjalannya waktu, anda akan merasakan bahwa ratusan jam tersebut bukanlah waktu yang cukup bagi mereka. Anda akan mulai melihat perubahan ketika mengobrol dengan automaton yang hampir kehabisan Anima dan juga akan mendapatkan pengingat bahwa waktu mereka hampir habis.<br />
+Dan untuk mengatasi hal tersebut, terdapat item <strong><em>Meteor Dust</em></strong> yang dapat kita temukan dan gunakan untuk menambahkan waktu hidup mereka sebelum menjadi <em>unsighted</em>. Namun, kita dihadapi dengan dilema ketika kita berusaha mencari <em>Meteor Dust</em> tersebut yang tak jarang memerlukan waktu yang tak sedikit pula. Dan jangan lupa, bahwa Alma, karakter yang kita kendalikan dalam game ini, juga memiliki jumlah Anima yang terbatas sehingga tak hanya untuk diberikan saja namun kita juga memerlukan <em>Meteor Dust</em> tersebut bagi karakter kita sendiri.</p>
+
+<p>Tentu tidak semua orang merasa senang dengan mekanik ini, banyak juga yang merasa terkekang akibatnya. Sebagai contoh, jika anda tergolong orang yg kurang cekatan dalam bermain game <em>action</em>, terutama game yang memerlukan reflek atau <em>timing</em> yang bagus (dan menurut saya, <em>Unsighted</em> cukup bergantung dengan mekanik <em>parry</em> pada <em>battle</em>-nya), tentu anda akan merasa game ini sulit terutama ketika melawan bos dan efeknya anda akan kehabisan banyak waktu untuk berkali-kali mengulangi melawan bos tersebut. Dan ya, waktu tetap berjalan ketika <em>health</em> Alma menjadi nol dan akan mengurangi jumlah Anima miliknya, alih-alih masuk ke halaman <em>Game Over</em> dan me-<em>reset</em> ulang waktunya ke <em>save point</em> terakhir.  Ya, ini akan terasa <em>punishing</em>, karena setiap kegagalan yang kita lakukan akan memberikan tekanan tambahan yang mungkin saja membuat pemainnya merasa kehilangan unsur <em>fun</em> dari game ini.<br />
+Atau jika tipe pemain yang senang melakukan eksplorasi dan ingin mencari setiap detail dan seluk beluk dari game tersebut, tentu dengan adanya <em>timer</em> ini akan terasa mengekang anda untuk mengeksplorasi lebih dalam pada game ini.</p>
+
+<figure><center>
+<img src="/assets/images/unsighted-explorermode.jpg" alt="Unsighted - Opsi pada Explorer Mode" style="width:100%" />
+<figcaption align="center"><i>Beberapa opsi yang dapat kita atur pada Explorer Mode.</i></figcaption>
+</center></figure>
+
+<p>Tapi, untungnya game ini memiliki <strong><em>Explorer Mode</em></strong> yang dapat memberikan kita waktu lebih dengan memperlambat laju waktu di dalam game tersebut, sehingga kita memiliki waktu lebih banyak untuk mengeksplorasi tanpa terlalu mengkhawatirkan mengenai sisa waktu yang dimiliki oleh Alma dan automaton lainnya. Tak hanya itu, pada Explorer Mode ini juga diberikan opsi-opsi lain yang dapat anda atur jika anda merasa battle dalam game ini terlalu sulit (hal ini biasa disebut sebagai <strong><em>Accessibility Options</em></strong>).</p>
+
+<p>Tentu saja anda mungkin berpikir, dengan adanya Explorer Mode ini, maka pengalaman bermain kita akan menjadi berkurang karena tidak lagi terasa adanya urgensi pada game ini. Namun, di sisi lain, game ini tidak hanya dinilai dari satu mekanik atau elemen saja, masih terdapat elemen-elemen lain dari game ini yang mungkin menarik bagi beberapa pemain (misal desain <em>dungeon _dalam game ini cukup mirip dengan game-game Zelda atau eksplorasi dunianya yang mirip dengan game Metroid). Dan jika ada pemain yang tertarik dengan desain _Zelda-like</em> atau <em>Metroidvania _tapi merasa bahwa _time limit</em> ini membuat mereka enggan untuk mencoba game ini, tentu saja mereka akan melewatkan kesempatan untuk memainkan game yang mungkin cocok untuk mereka.</p>
+
+<p>Oleh karena itu, menurut saya, <em>Explorer Mode</em> ini dapat membantu developer untuk menjangkau pemain-pemain yang mungkin kurang cocok dengan mekanik <em>time limit</em>-nya namun tertarik dengan elemen <em>Zelda-like</em> dan <em>Metroidvania</em>-nya, juga mode ini dapat digunakan untuk orang-orang yang ingin mengeksplorasi dan bereksperimen lebih jauh dengan game tersebut, tanpa perlu khawatir akan limitasi yang ada pada game tersebut.</p>
+
+<p class="info"><em>Mungkin anda ingat tentang _post_ saya sebelumnya mengenai <a href="/opsi-pemain-dalam-playstyle-sebuah-game/">Opsi Pemain dalam Playstyle sebuah Game</a>, yang juga membahas turn-timer pada game XCOM2 yang tidak disukai oleh para pemainnya.</em></p>
+
+<p>Bagi saya, konsep dari mekanik yang memberikan time limit kepada pemainnya untuk memberikan efek urgensi pada ceritanya ini sangat menarik. Ditambah developer-nya yang mau menjadikan mekanik ini “opsional” dan juga adanya <em>accessibility options</em> untuk mengatur “tingkat kesulitan” dari game ini, menjadikan game ini layak dipuji dan patut untuk dicoba.</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Membahas mengenai salah satu mekanik pada game Unsighted yang dapat membuat pemain merasakan urgensi pada ceritanya.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A Short Hike: Sebuah Game Open-World yang Kecil</title><link href="https://setelahgaming.com/a-short-hike-small-open-world/" rel="alternate" type="text/html" title="A Short Hike: Sebuah Game Open-World yang Kecil" /><published>2022-07-24T00:00:00+07:00</published><updated>2022-07-27T18:56:34+07:00</updated><id>https://setelahgaming.com/a-short-hike-small-open-world</id><content type="html" xml:base="https://setelahgaming.com/a-short-hike-small-open-world/"><![CDATA[<figure><center>
+<img src="/assets/images/ashorthike-fishing.png" alt="Header - A Short Hike Sebuah Game Open-World yang Kecil" style="width:100%" />
+</center></figure>
+
+<p>Ketika kita mendengar tentang <strong><em>game open-world</em></strong>, kita sering membayangkan sebuah dunia yang luas dan kita sebagai pemainnya dapat mengontrol karakter dalam game tersebut untuk pergi ke mana saja dan melakukan berbagai hal mulai dari awal permainan, atau setidaknya setelah kita menyelesaikan tutorialnya. Dan dengan dunia yang besar dan luas, tentu saja game tersebut akan memiliki cerita menarik, berisi perjalanan yang luar biasa dengan berbagai macam <em>item</em> dan senjata yang dapat kita peroleh, dengan berbagai macam musuh dan bos yang masing-masing memiliki <em>skill sets</em> yang unik, dan banyak hal lain lagi yang bisa kita lakukan di dalam dunia game <em>open-world</em> tersebut.</p>
+
+<p>Tapi, bagaimana jika saya mengatakan bahwa game <em>open-world</em> tidak harus memiliki peta yang luas dan besar untuk dianggap sebagai game yang bagus?<br />
+Saya ingin memperkenalkan anda dengan <strong>A Short Hike</strong>, sebuah game open-world pendek yang terlepas dari judul gamenya, bukan hanya mengenai hiking, tetapi lebih mengutamakan eksplorasi pulau kecil yang menjadi tempat utama dari game ini.<br />
+Lalu, bagaimana sih <em>A Short Hike</em> dapat membuat sebuah dunia yang kecil tersebut agar menyenangkan untuk dijelajahi?</p>
+
+<h3 id="menjelajahi-hawk-peak-provincial-park">Menjelajahi <em>Hawk Peak Provincial Park</em></h3>
+
+<figure><center>
+<img src="/assets/images/ashorthike-flying.png" alt="Terbang dalam game A Short Hike" style="width:100%" />
+</center></figure>
+
+<p>Hal pertama yang ingin saya bahas adalah bagaimana rasanya menjelajahi dunia dalam game ini.<br />
+Salah satu aspek yang ditonjolkan dalam game ini adalah <em>movement</em> atau pergerakan dari karakternya, terutama pergerakannya ketika sedang terbang yang terasa sangat luar biasa. Apalagi kita akan sangat bergantung dengan kemampuan terbang ini yang jika sudah dikuasai maka mampu membantu kita untuk bergerak menuju suatu tempat dengan cepat. Pergerakan terbangnya terasa mulus dan mengalir, ditambah dengan musik yang menenangkan tentu membuat pengalaman ini terasa sangat memuaskan.</p>
+
+<p>Ngomong-ngomong soal musik, hal ini juga memiliki peran yang penting dalam game ini. Jika kita mendengarkan dengan teliti, musik pada <em>A Short Hike</em> dapat berubah-ubah secara dinamis berdasarkan lokasi kita. Disamping memberikan suasana yang tepat selama kita menjelajah, musik ini juga dapat menuntun kita dengan menginformasikan ketika kita memasuki atau meninggalkan sebuah area. Hal ini terdengar dari musik yang perlahan-lahan berubah menjadi lebih tenang, dengan instrumen yang satu per satu menghilang ketika kita meninggalkan sebuah area dan juga sebaliknya, menjadi lebih intens dan memperkenalkan kembali instrumennya satu per satu ketika memasuki area yang baru.</p>
+
+<figure><center><div class="extensions extensions--video">
+  <iframe src="https://www.youtube.com/embed/diSn8gj4p6U?rel=0&amp;showinfo=0" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+</div>
+<figcaption align="center"><i>A Short Hike memiliki musik yang dinamis, yang perlahan-lahan berubah mengikuti lokasi dan pergerakan kita.</i></figcaption>
+</center></figure>
+
+<p>Dan game ini memiliki beberapa cara yang dapat menuntun kita untuk menemukan hal-hal baru yang menarik (<em>point of interest</em>) dalam game ini.<br />
+Selain menggunakan musik, seperti yang telah dijelaskan sebelumnya, terkadang terlihat beberapa koin yang telah disusun untuk “keluar dari jalur” ketika kita mencoba untuk mengambilnya. Biasanya, hal ini akan membawa kita ke suatu tempat yang menampilkan hal-hal menarik dengan harapan dapat menimbulkan rasa penasaran kita untuk mengeksplorasi lebih jauh daerah tersebut.<br />
+Terkait dengan <em>point of interest</em>, game ini juga menempatkan beberapa binokular yang dapat digunakan untuk melihat hal-hal menarik di kejauhan, seperti mercusuar yang menjulang, siluet pulau di kejauhan, atau kolom udara yang membuat kita penasaran. :)</p>
+
+<h3 id="percakapan-dengan-npc">Percakapan dengan NPC</h3>
+
+<figure><center>
+<img src="/assets/images/skyrim-tookanarrowintheknee.jpg" alt="Skyrim Took an Arrow in the Knee - Percakapan Kosong" style="width:100%" />
+<figcaption align="center"><i>Percakapan yang "kosong", namun terkenal.</i></figcaption>
+</center></figure>
+
+<p>Bagi saya, salah satu alasannya adalah desain dari NPC dan percakapan dalam game ini.<br />
+Seringkali pada game <em>open-world</em> yang besar, kita menemukan banyak sekali NPC yang ketika kita mencoba berbicara kepadanya hanya akan mengucapkan sebuah dialog yang “kosong”. Namun, pada game <em>A Short Hike</em> ini, setiap percakapan dengan NPC memberikan sesuatu bagi pemainnya, entah dia memberikan petunjuk arah, memberikan <em>side-quest</em> untuk kita lakukan, atau bahkan memberi sesuatu hal baru yang dapat kita lakukan. Oleh karena itu, ketika kita melihat NPC yang belum pernah kita temui sebelumnya, kita akan merasa tertarik untuk berinteraksi dengannya, karena kita tau bahwa dia memiliki sesuatu info yang menarik bagi kita.<br />
+Juga karena para NPC tersebar di seantero pulau, hal ini dapat menjadi motivasi tersendiri bagi pemain untuk menjelajahi pulau tersebut untuk bertemu dengan semua NPC yang ada dan membuka berbagai konten dari game ini. Namun, tentu saja masih ada beberapa NPC yang hanya memberikan dialog yang tidak berarti, namun dilihat dari jumlahnya, tentu saja mereka terhitung sebagai minoritas.</p>
+
+<p>Percakapan yang terjadi dalam game ini juga terasa natural dan mengalir begitu saja, yang tentunya cocok dengan tema dari gamenya yang santai. Beberapa dari mereka ada yang konyol, namun tak jarang pula kita melihat percakapan yang cukup serius, yang menceritakan mengenai masalah dan kekhawatiran yang mereka miliki. Hal ini terasa seperti percakapan yang dapat terjadi pada dunia nyata. Mungkin karena <em>setting</em> dari game ini yang mirip dengan dunia nyata yang kita tinggali, dibandingkan dengan setting dunia <em>fantasy</em> atau <em>medieval</em> yang tidak pernah kita alami, sehingga kita merasakan percakapan yang terjadi natural dan realistis.</p>
+
+<p>Contohnya, ketika kita menolong Sue, kelinci yang mencari <em>headband</em> atau ikat kepalanya yang hilang, kita dapat melihat bagaimana dia bersikeras bahwa ikat kepala tersebut membawa keberuntungan baginya untuk memenangkan balapan yang telah dia ikuti dan dia merasa ragu apakah dia dapat mengikuti balapan berikutnya tanpa ikat kepala tersebut. Tetapi, setelah kita menemukan ikat kepalanya, dia mengaku bahwa mungkin dia berhasil memenangkan balapan sebelumnya bukan karena dia beruntung dan hanya merasa grogi menghadapi balapan berikutnya. Pada akhirnya, dia menerima bahwa dia tidak memerlukan keberuntungan untuk memenangkan balapan berikutnya, bahkan dia juga menyerahkan <em>lucky headband</em>-nya untuk kita.</p>
+
+<figure><center>
+<img src="/assets/images/ashorthike-sue.png" alt="A Short Hike First Time Meet Sue" style="width:100%" />
+<figcaption align="center"><i>Ketika kita pertama kali bertemu dengan Sue, kelinci yang kehilangan ikat kepala keberuntungannya.</i></figcaption>
+</center></figure>
+
+<p>Percakapan seperti ini yang karakternya menceritakan dan mendiskusikan tentang kekhawatirannya (aka curhat) dengan kita, terasa natural layaknya percakapan dengan teman dekat. Dan mungkin, karena kebanyakan percakapan dalam game ini memiliki pola dan struktur seperti ini, yang terasa mengalir secara alami dan realistis, membuat kita merasa seperti menolong teman kita sendiri alih-alih hanya menjalankan tugas saja, yang dapat menambahkan motivasi kepada kita sebagai pemain untuk melakukan <em>side-quest</em> tersebut.</p>
+
+<h3 id="desain-quest">Desain <em>Quest</em></h3>
+
+<p>Hal selanjutnya yang ingin saya bahas ialah mengenai <em>quest</em>. Pada game ini, kita sering menemukan <em>quest</em> yang didesain terdiri dari beberapa bagian yang berbeda dan saling berkaitan satu sama lain. Hal ini membuat <em>side-quest</em> menjadi menarik dan terasa bervariasi, meskipun jika diperhatikan sebenarnya kebanyakan <em>quest</em>-nya adalah <em>fetch quest</em>.</p>
+
+<figure><center>
+<img src="/assets/images/ashorthike-camppermit.png" alt="A Short Hike The Camper Who Lost His Permit" style="width:100%" />
+</center></figure>
+
+<p>Contohnya, ketika kita bertemu dengan seorang yang sedang berkemah yang kehilangan surat izin kemahnya, dia mencoba untuk menyogok kita dengan umpan untuk pancingan ikan. Karena lokasi karakter ini berada pada bagian awal dari game, kebanyakan dari kita belum mendapatkan pancingan ikan ketika bertemu dengannya. Mungkin sebelumnya anda sudah menyadari ketika melihat siluet ikan pada kolam ataupun sepanjang pesisir pantai bahwa anda bisa memancing dalam game ini, namun percakapan ini memastikan hal tersebut. Ditambah lagi dirinya menceritakan bahwa surat izin kemah miliknya itu hilang dimakan oleh ikan. Dari pertemuan ini, maka dimulailah misi kita untuk <del>menemukan kembali izin kemah</del> mencari bagaimana cara memancing di dalam game ini.<br />
+Bahkan setelah kita mendapatkan pancingan dan menemukan ikan yang telah memakan surat izin kemahnya, kita masih memiliki <em>quest</em> memancing yang lain, yaitu untuk menangkap dan menjual setiap jenis ikan yang ada pada <em>Hawk Peak Provincial Park</em> ini.</p>
+
+<p>Tentu tidak semua <em>quest</em> pada <em>game A Short Hike</em> memiliki struktur yang kompleks seperti ini, mungkin contoh lainnya yang serupa adalah ketika kita mencari jam tangan yang hilang, tapi bukan berarti <em>quest</em> lainnya menjadi hal yang membosankan. Karena desain <em>quest</em> yang sederhana digabungkan dengan percakapan yang menarik dari karakternya, tetap dapat membuat pengalaman yang seru untuk diikuti.</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[A Short Hike adalah sebuah game yang menunjukkan bahwa game open-world tidak selalu memerlukan dunia yang luas untuk bisa dinikmati. Pada artikel ini, apa yang membuat A Short Hike dapat memotivasi pemainnya untuk mengeksplorasi dunianya.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Inscryption dan Meta game</title><link href="https://setelahgaming.com/inscryption-dan-meta-game/" rel="alternate" type="text/html" title="Inscryption dan Meta game" /><published>2022-03-07T00:00:00+07:00</published><updated>2022-03-17T22:40:35+07:00</updated><id>https://setelahgaming.com/inscryption-dan-meta-game</id><content type="html" xml:base="https://setelahgaming.com/inscryption-dan-meta-game/"><![CDATA[<figure><center>
+<img src="/assets/images/inscyption-banner.png" alt="Inscryption dan Meta game header" />
+</center></figure>
+
+<p>Saya sangat ingin sekali membahas game <strong>Inscryption</strong>, namun bagi saya hal ini cukup sulit dilakukan tanpa meng-<em>spoiler</em> game tersebut, yang tentu saja jika anda belum memainkannya maka anda akan merasa kehilangan <em>charm</em> dan juga pengalaman anda akan berbeda ketika nantinya anda akan memainkan game tersebut.<br />
+Jadi, saya di sini hanya bisa merekomendasikan anda untuk mencoba memainkan game tersebut, tanpa bisa memberi terlalu banyak petunjuk terkait game tersebut.</p>
+
+<p>Memang sih, saya bisa saja membahas tentang tema utama dari game tersebut dan bagaimana hal tersebut tercermin pada berbagai aspek gamenya atau membahas bagaimana <em>storytelling</em> pada game tersebut atau bagaimana “tutorial” dan desain levelnya yang dibuat agar pemain yang jago tidak dapat langsung melompati poin-poin penting dalam ceritanya. Namun, saya tetap merasa kesulitan untuk membahas hal-hal tersebut tanpa membuat spoiler dan juga topik tersebut akan sulit dimengerti jika anda belum memainkan game ini.</p>
+
+<p>Tetapi, mengapa game ini sulit untuk dijelaskan tanpa spoiler?<br />
+Salah satu alasannya ialah karena game Inscryption ini tergolong dalam game yang bersifat “meta” (atau mungkin lebih tepat nya <em>metafictional</em>, penjelasan singkat dan beberapa judul game yang termasuk kategori ini bisa anda cek pada <a href="https://en.wikipedia.org/wiki/List_of_metafictional_works#Interactive_media_and_video_games">Wikipedia</a>).</p>
+
+<p>Game yang bersifat meta, yang selanjutkan akan saya sebut sebagai meta-game pada tulisan ini, biasanya merupakan game yang memiliki sifat <em>“breaking the fourth wall”</em> dan juga memiliki konsep “satu langkah di luar game” tersebut. Oleh karena itu, jika saya memberikan spoiler pada meta-game maka efek <em>surprise</em> yang dirasakan ketika memainkannya dan menyadari hal tersebut dapat berkurang jauh atau bahkan hilang sama sekali dan tentu saja membuat pengalaman anda dalam bermain game tersebut menjadi kurang. Karena memang salah satu aspek utama yang membuat meta-game menjadi menarik ialah bagaimana game tersebut mengacaukan ekspektasi kita terhadap game pada umumnya. Akibatnya, jika elemen <em>surprise</em> tersebut hilang dikarenakan oleh spoiler yang anda dengar maka pengalaman kita dalam memainkan game tersebut pun akan berkurang.</p>
+
+<p>Jadi, saran saya ketika ingin membahas suatu meta-game, seperti Inscryption, yaaa mainkan saja gamenya. :D</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Pembahasan mengenai meta-game dan mengapa game yang memiliki karakteristik tersebut sulit untuk dibahas. Dalam tulisan ini, game yang dijadikan fokus ialah game Inscryption.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Opsi Pemain dalam Playstyle sebuah Game</title><link href="https://setelahgaming.com/opsi-pemain-dalam-playstyle-sebuah-game/" rel="alternate" type="text/html" title="Opsi Pemain dalam Playstyle sebuah Game" /><published>2022-02-10T00:00:00+07:00</published><updated>2022-02-15T18:59:59+07:00</updated><id>https://setelahgaming.com/opsi-pemain-dalam-playstyle-sebuah-game</id><content type="html" xml:base="https://setelahgaming.com/opsi-pemain-dalam-playstyle-sebuah-game/"><![CDATA[<figure><center>
+<img src="/assets/images/mgs5_analyser.jpg" alt="Opsi Pemain dalam Playstyle sebuah Game header" />
+</center></figure>
+
+<p>Video game merupakan sebuah media interaktif yang membuat pemainnya memiliki banyak opsi untuk menentukan ke arah mana narasi game yang sedang dimainkan. Memang tidak semua game memberikan pilihan kepada pemainnya untuk dapat mengubah cerita dari game tersebut, namun narasi yang saya maksud tidak hanya terbatas pada cerita saja. Misal pag sebuah game, bisa saja anda membuat karakter anda menjadi seorang yang barbar, yang selalu menyelesaikan masalah dengan adu pukul langsung. Namun anda juga bisa saja memainkan game yang sama dengan karakter yang lebih berhati-hati seperti melakukan banyak <em>stealth mission</em> atau memilih cara yang lebih damai dalam menyelesaikan masalah.</p>
+
+<p>Meski kita sebagai pemain memiliki banyak pilihan, terkadang pilihan-pilihan tersebut tidak sejalan dengan visi dari <em>developer</em> atau <em>designer</em> game tersebut. Kadang mereka tidak menginginkan pemainnya hanya menggunakan satu taktik atau gaya bermain <em>(playstyle)</em> yang itu-itu saja sepanjang game tersebut. Maka tak heran jika mereka berusaha membuat situasi yang membuat pemainnya mengubah <em>playstyle</em>-nya.<br />
+Salah satu contoh yang terkenal ialah <a href="https://metalgear.fandom.com/wiki/Revenge_System_(enemy_preparedness)">Revenge System</a> pada <strong>Metal Gear Solid V: The Phantom Pain</strong>, yang dapat membuat musuh menggunakan helm untuk melindungi diri mereka jika kita sering melakukan tembakan <em>headshot</em> kepada musuh tersebut.<br />
+Atau juga pada game <strong>Control</strong> yang meskipun kedua kemampuan ofensif kita yaitu <em>Service Weapon</em> dan kemampuan telekinetik, memiliki penggunaan yang tidak dibatasi oleh jumlah peluru ataupun <em>“magic power”</em> yang harus kita kumpulkan atau pulihkan, tetapi keduanya memiliki sistem cooldown setelah digunakan secara berlebihan dalam waktu singkat yang memaksa pemain untuk <em>“juggling”</em> antara keduanya sepanjang aksi adu tembak yang terjadi.</p>
+
+<p>Namun kadang, developer dan designer game terlalu memaksa pemainnya untuk menghindari <em>playstyle</em> tertentu pada game mereka. Hal ini bisa kita lihat contohnya dari adanya <em>Turn Timer</em> pada game <strong>XCOM 2</strong> yang memaksa pemainnya untuk bermain lebih <em>rush</em> dan mengambil banyak resiko daripada memainkan game tersebut dengan lebih lambat dan berhati-hati pada pergerakan mereka. Dan tentu saja hal ini mendapat kritik yang keras dari pemainnya yang merasakan design game tersebut benar-benar menghukum mereka yang memainkan game ini dengan <em>playstyle</em> yang lambat dan berhati-hati. Hal ini tak terlepas dari efek <em>Turn Timer</em> yang akan membuat misi anda gagal jika tidak diselesaikan dalam kurun waktu yang telah ditentukan tersebut.</p>
+
+<figure><center>
+<img src="/assets/images/xcom2_turntimer.jpg" alt="Turn Timer pada XCOM2" />
+<figcaption>Turn Timer pada <b>XCOM2</b> yang membuat pemain harus menyelesaikan misi tersebut sebelum timer menyentuh angka 0.</figcaption>
+</center></figure>
+
+<p>Sebenarnya hal ini pernah ditangani dengan baik oleh developer <em>XCOM 2</em>, <em>Firaxis Games</em>, pada game mereka sebelumnya yaitu <strong>XCOM: Enemy Within</strong>. Pada game <em>XCOM: Enemy Within</em>, pemain tidak dipaksa untuk bermain dengan terburu-buru, tetapi pemain yang berani mengambil resiko tersebut akan mendapatkan <em>reward</em> berupa <strong>Meld</strong> yang merupakan salah satu <em>resource</em> dalam game tersebut yang dapat digunakan untuk meng-<em>upgrade</em> pasukan yang kita miliki dengan kemampuan-kemampuan yang baru.</p>
+
+<p>Pendekatan ini tentu lebih dipilih oleh pemain, salah satu alasannya karena efek <em>Loss Aversion</em>, yang membuat kehilangan sesuatu (dalam hal ini ialah misi yang gagal) terasa jauh lebih menyakitkan dibandingkan dengan mendapatkan hal yang setara. Oleh karena itu, meskipun pada game <em>XCOM: Enemy Within</em> pemain mendapatkan <em>reward</em> yang tidak terlalu “wah” secara nilai (<em>Meld</em> tidak membuat game tersebut menjadi <em>broken</em>, sehingga tanpa mengumpulkan <em>Meld</em> dalam jumlah banyak pun game tersebut masih dapat dimainkan dengan asik) namun menggagalkan sebuah misi karena kita bermain “terlalu lambat” menurut standar developer/designer game tersebut terasa sangat sangat menyesakkan.</p>
+
+<p>Contoh lain dari game yang berusaha untuk membuat pemainnya menggunakan <em>playstyle</em> tertentu, namun tetap memberikan kebebasan pada pemainnya untuk memilih ialah game <strong>UNDERTALE</strong>.</p>
+
+<figure><center>
+<img src="/assets/images/undertale_tutoriel.png" alt="Tutorial oleh Toriel pada UNDERTALE" />
+</center></figure>
+
+<p>Dalam UNDERTALE, idealnya kita berusaha untuk berbicara kepada setiap monster yang kita hadapi dan berusaha menyelesaikan konflik tersebut secara damai, seperti yang diajarkan pada tutorial game tersebut. Namun, bukan tak mungkin bagi kita untuk menghadapi pertemuan tersebut dengan cara yang “klasik”, dengan menggunakan kekerasan seperti game-game JRPG pada umumnya. Tentu jika kita menggunakan cara ini, kita tidak dapat memperoleh <em>ending</em> cerita yang terbaik tetapi disisi lain kita dapat menempuh rute khusus yaitu <em>Genocide Route</em> untuk mendapatkan akhir cerita yang khusus pula.</p>
+
+<p>Namun, <em>Genocide Route</em> ini bukanlah <em>playstyle</em> yang ingin dicapai oleh developer game UNDERTALE walaupun kita sebagai pemain memiliki opsi tersebut. Lalu bagaimana <em>Toby Fox</em>, selaku pembuat game ini, berusaha menjauhkan pemainnya dari <em>playstyle</em> tersebut?<br />
+Salah satu caranya tentu dengan “menghukum” pemainnya sehingga mereka tidak dapat mencapai <em>ending</em> yang terbaik, meskipun pada rute ini kita dapat memperoleh <em>ending</em> cerita yang spesial tetapi proses untuk mencapai ending khusus dari <em>Genocide Route</em> ini cukup menyebalkan dan menyita waktu, yang mungkin saja dapat membuat pemainnya mempertanyakan keputusan mereka untuk menempuh rute ini (plus <em>boss battle</em> pada <em>Genocide Route</em> juga lebih sulit dibandingkan dengan rute lainnya).<br />
+Jadi, tanpa memaksakan pemain untuk mengikuti <em>playstyle</em> tertentu dan tetap memberikan pilihan kepada pemain untuk menentukan bagaimana narasi dalam game UNDERTALE terungkap, Toby Fox berhasil menuntun pemainnya untuk melakukan hal yang dia inginkan yang sesuai dengan desain game yang ia buat.</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Pembahasan terkait opsi yang diberikan kepada pemain terhadap playstyle yang diperbolehkan secara desain dari sebuah video game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cerita dan Musik dalam Video Game</title><link href="https://setelahgaming.com/cerita-dan-musik-video-game/" rel="alternate" type="text/html" title="Cerita dan Musik dalam Video Game" /><published>2022-01-19T00:00:00+07:00</published><updated>2022-01-19T17:08:03+07:00</updated><id>https://setelahgaming.com/cerita-dan-musik-video-game</id><content type="html" xml:base="https://setelahgaming.com/cerita-dan-musik-video-game/"><![CDATA[<figure><center>
+<img src="/assets/images/ffix_cover.jpg" alt="FFIX You're Not Alone - Cerita dan Musik dalam Video Game header" />
+</center></figure>
+
+<p>Cerita dan musik merupakan dua aspek yang penting dalam sebuah video game. Penggunaan musik di momen cerita yang tepat dapat membuat pemain mendapatkan <em>feeling</em> dan atmosfer yang tepat sesuai dengan keinginan dari <em>developer</em>-nya. Tak heran jika game memiliki musik <em>battle</em> yang berbeda ketika sedang melawan <em>boss</em> untuk membuat pemain merasa bahwa <em>battle boss</em> yang sedang mereka jalani ini berbeda dengan <em>battle-battle</em> biasanya.<br />
+Namun tak hanya memberikan <em>“peringatan”</em> kepada pemainnya terhadap nuansa dan situasi yang yang sedang dialami dalam game, tetapi menurut saya, musik juga dapat membuat pemainnya menjadi <em>ngeh</em> terhadap alur cerita yang sedang mereka mainkan merupakan sebuah alur cerita yang penting dalam game tersebut.</p>
+
+<p class="error"><strong>SPOILER ALERT!</strong><br />
+Tulisan ini mengandung <strong><em>major spoiler</em></strong> pada game Final Fantasy IX dan UNDERTALE.</p>
+
+<p>Pada game <strong>Final Fantasy IX</strong>, tema utama ceritanya ialah mengenai pencarian jati diri. Maka tak heran jika pada game tersebut kita melihat<br />
+putri <strong><em>Garnet</em></strong> yang mencoba mengubah namanya menjadi <em>Dagger</em>;<br />
+<strong><em>Vivi</em></strong> yang bertanya-tanya mengenai apa sih dirinya;<br />
+<strong><em>Quina</em></strong> yang disuruh untuk mencoba berbagai jenis kodok yang ada di penjuru dunia; dan juga<br />
+<strong><em>Steiner</em></strong> yang galau antara menjalankan perintah dari ratunya atau patuh akan kewajibannya untuk melindungi putri <em>Garnet</em>.</p>
+
+<p>Ketika cerita berlanjut, tema cerita dari game inipun berkembang sehingga tidak hanya sekedar mencari dan menemukan jati diri namun juga bagaimana menghadapi dan menjalankan kehidupan mereka setelah mengetahui tentang jati diri mereka. Terlihat dari<br />
+<strong><em>Freya</em></strong> yang akhirnya berhasil bertemu dengan <em>Sir Fratley</em> dan harus menerima kenyataan yang pahit;<br />
+<strong><em>Amarant</em></strong> yang memiliki prinsip untuk bekerja seorang diri namun pada akhirnya malah diselamatkan oleh rivalnya;<br />
+<strong><em>Eiko</em></strong> yang selama ini selalu setia ditemani oleh <em>Mog</em> harus kehilangan temannya tersebut;<br />
+dan tentu saja <strong><em>Zidane</em></strong> setelah bertemu langsung dengan Garland, mengetahui mengenai jati dirinya yang sebenarnya.</p>
+
+<p>Tentu saja pesan dari game ini tak hanya untuk terus melangkah ke depan, terlepas dari jati diri ataupun masa lalu kita, tetapi juga kita tidak pernah bisa dan tidak akan mampu untuk berjalan sendiri dan pesan ini disampaikan melalui salah satu musik yang dimainkan ketika cerita Final Fantasy IX ini sedang pada titik puncaknya, yaitu <strong><em>You’re Not Alone</em></strong>.<br />
+Musik <em>You’re Not Alone</em>, sebagai musik yang digunakan pada momen resolusi dari masalah jati diri tokoh utamanya, terdengar begitu berbeda dibandingkan musik-musik lainnya pada game tersebut. Jika kita perhatikan musik-musik lainnya yang mengusung tema <em>medieval</em>, musiknya didominasi oleh <em>woodwind</em>, <em>brass instrument</em>, dan organ yang juga ditemani oleh instrumen-instrumen klasik seperti piano, biola, dan gitar akustik. Namun pada musik You’re Not Alone, dengan jelas terdengar efek dari gitar listrik yang tak pernah terdengar pada musik lainnya dan membuat musik ini terdengar lain dari yang lain.<br />
+Bagi saya, dengan menggunakan musik yang terdengar <em>berbeda</em>, membuat saya menjadi lebih menyadari bahwa momen tersebut merupakan sebuah momen khusus yang ingin di-<em>highlight</em> oleh <em>developer</em> game tersebut.</p>
+
+<figure><center>
+<img src="/assets/images/ffix_youre-not-alone.png" alt="FFIX - Zidan after know about his true identity" />
+</center></figure>
+
+<p>Tentu tak hanya Final Fantasy IX saja yang menggunakan <em>trik</em> seperti ini untuk menyampaikan tema ceritanya melalui musik, namun game <strong>UNDERTALE</strong> juga melakukan hal yang serupa.<br />
+Dalam Game UNDERTALE, ketika sedang dalam perjalanan menuju ke tempat ASGORE untuk melawannya sebagai bos terakhir, kita disuguhi musik yang berjudul <strong><em>Undertale</em></strong> dan sepanjang musik ini diputar kita diceritakan lebih detail mengenai sejarah dunia <em>Underground</em> dari perspektif para penghuninya. Meski musik <em>Undertale</em> ini terdengar cukup familiar karena memiliki leitmotif dengan lagu yang sudah kita dengan sebelumnya, namun untuk pertama kalinya dalam game ini kita mendengarkan musik yang menggunakan gitar akustik (yang dimainkan oleh <em>Stephanie MacIntire</em>). Pada momen tersebutlah kita sebagai pemain, akan menyadari bahwa pada game UNDERTALE, bukan ingin menceritakan mengenai peristiwa-peristiwa yang terjadi dari sisi manusia melainkan cerita dari sisi para monsternya.</p>
+
+<figure><center>
+<img src="/assets/images/undertale_its-still-you.png" alt="Undertale - Despite everything, it's still you" />
+</center></figure>
+
+<p>Tentu saja penggunaan musik seperti ini tidak hanya terbatas untuk menyampaikan sebuah pesan dari cerita game tersebut. Seperti contoh pada Final Fantasy IX, musik <em>You’re Not Alone</em> terus diperdengarkan meskipun kita sudah memasuki <em>battle screen</em>. Hal yang serupa juga digunakan pada game <em>Final Fantasy</em> yang lain yaitu pada <strong>Final Fantasy 7</strong> ketika melawan bos terakhir di <em>disc</em> 1 dan pada <strong>Final Fantasy X</strong> ketika akhirnya kita berhasil mencapai <em>Zanarkand</em>. Momen ini berusaha mengingatkan pemainnya tentang makna dari <em>battle</em> yang sedang mereka jalani melalui musik tersebut.</p>
+
+<p>Apakah kalian juga memiliki momen ketika bermain video game dan menyadari sesuatu ketika mendengarkan musiknya?</p>
+
+<hr />
+
+<h4 id="referensi">Referensi:</h4>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=wc_UynEKqZI">You’re Not Alone! Final Fantasy IX’s exceptional moment</a></li>
+  <li><a href="https://www.youtube.com/watch?v=9xR-xOkKP44">How the song “Undertale” Hits Home</a></li>
+</ul>]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Membahas mengenai penggunaan musik/soundtrack dalam video game untuk mendukung atau menyampaikan sebuah pesan dalam cerita dari game tersebut.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hal-hal Kecil dalam Game</title><link href="https://setelahgaming.com/hal-hal-kecil-dalam-game/" rel="alternate" type="text/html" title="Hal-hal Kecil dalam Game" /><published>2021-11-25T00:00:00+07:00</published><updated>2021-12-14T10:28:19+07:00</updated><id>https://setelahgaming.com/hal-hal-kecil-dalam-game</id><content type="html" xml:base="https://setelahgaming.com/hal-hal-kecil-dalam-game/"><![CDATA[<figure><center>
+<img src="/assets/images/trailsinthesky_estelle-annoyed.jpg" alt="Estelle merasa kesal - Hal-hal Kecil dalam Game header" />
+</center></figure>
+
+<p>Tulisan ini terinspirasi dari sebuah ulasan untuk game <strong>The Legend of Heroes: Trails in the Sky</strong> pada Steam yang mengatakan bahwa dia tidak menyukai efek suara teks berjalan yang terdengar monoton, membosankan, dan menjengkelkan pada game tersebut. Saya, yang sewaktu kecil menghabiskan ratusan jam memainkan game <strong>Harvest Moon: Back to Nature</strong> pada <em>Playstation</em> generasi pertama, tentu merasa ulasan tersebut lucu. Efek suara seperti itu merupakan hal yang lumrah untuk didengar, meski untuk standar game yang rilis pada tahun 2004 (dan juga <em>Trails in the Sky</em> baru dirilis pada Steam pada tahun 2014) hal tersebut terasa kurang “wah”. Karena pada masa tersebut sudah terdapat game-game yang membuat efek suara, bahkan bisa dibilang “bahasa unik”, yang digunakan untuk menggantikan efek suara teks berjalan yang monoton tersebut. Sebagai contohnya, anda dapat mendengar bagaimana efek suara pada game <strong>Animal Crossing</strong> (2001) atau <strong>Banjo Kazooie</strong> (1998) ketika terdapat dialog antar karakter dalam game tersebut.</p>
+
+<p class="error"><strong>SPOILER ALERT!</strong><br />
+Tulisan ini mengandung <strong><em>minor spoiler</em></strong> pada game-game yang dibahas. Meski tidak ada hal penting atau besar yang diungkapkan dalam tulisan ini, tetapi mungkin anda akan mendapatkan pengalaman yang sedikit berbeda ketika memainkannya untuk pertama kalinya.<br />
+Game-game yang akan dibahas pada tulisan ini ialah: <br />
+– <strong>UNDERTALE</strong><br />
+– <strong>Pyre</strong><br />
+– <strong>OMORI</strong><br />
+– <strong>The Last of Us</strong></p>
+
+<p>Saya secara pribadi sih, tidak terlalu mempermasalahkan hal ini, karena banyak sekali game-game yang berskala kecil dan game-game indie yang saya mainkan pada saat itu yang masih menggunakan efek suara teks berjalan yang membosankan seperti pada dialognya. Namun, ketika saya memainkan game <strong>UNDERTALE</strong> saya menyadari sesuatu. Meski efek suara untuk teks dialog pada game tersebut tidak “secanggih” seperti efek suara pada game <em>Animal Crossing</em> atau <em>Banjo Kazooie</em> tetapi <strong>UNDERTALE</strong> memiliki efek suara untuk teks dialog yang khas dan unik untuk setiap karakternya. Hal ini dapat anda lihat pada layar <em>Game Over</em>-nya ketika muncul sebuah teks dialog dan dengan mudah kita dapat mengenali karakter siapa yang mengucapkan dialog tersebut berdasarkan efek suara yang digunakan, walaupun tanpa ada nama karakter atau gambar karakter yang biasa muncul pada kotak dialog sepanjang game tersebut (<em>well,</em> anda harus memainkan game ini hingga tamat terlebih dahulu sih sebelum anda dapat mengenali suaranya :s).
+Memang ini merupakan suatu hal yang kecil dan mungkin terkesan sederhana, namun ketika saya menyadari hal ini, saya merasa perhatian terhadap detail dari game ini layar diberikan apresiasi yang lebih.
+Memang ini merupakan suatu hal yang kecil dan mungkin terkesan sederhana, namun ketika saya menyadari hal ini, saya merasa perhatian terhadap detail dari game ini membuat saya mengapresiasi game ini lebih dalam lagi.</p>
+
+<figure><center>
+<img src="/assets/images/undertale_gameover.webp" alt="Layar Game Over pada UNDERTALE" />
+<figcaption>Layar Game Over pada <b>UNDERTALE</b> dengan sebuah dialog tanpa nama, namun kita dapat mengenali siapa yang menyebutkan dialog tersebut dari efek suaranya.</figcaption>
+</center></figure>
+
+<p>Tentu dalam video game terdapat banyak hal-hal kecil lainnya yang ketika kita memainkannya, tidak terlalu kita sadari. Dan tidak hanya dari aspek efek suara saja, tapi hampir semua aspek pada game dapat kita amati. 
+Sebagai contoh, pada lagu <em>ending</em> game <strong>Pyre</strong> yang berjudul <strong><em>Bound Together</em></strong>, saya menyadari sebuah detail yang menarik ketika mendengarkannya beberapa kali melalui Spotify. Lagu tersebut menceritakan setiap <em>playable</em> karakter dari game tersebut, yang jika anda dengar pada <em>in-game</em>, bergantung dari keputusan kita ketika membebaskan karakter-karakter tersebut. Pada lagu <em>ending</em> tersebut, setiap karakternya memiliki suara alat musik tambahan yang spesifik dan unik per karakter yang ditambahkan di atas irama musik lagunya, ketika kisah dari karakter tersebut disampaikan pada lagunya. Contohnya, ketika lagunya sedang menceritakan tentang <strong><em>Hedwyn</em></strong> maka terdengar suara <em>mandolin,</em> ketika mengisahkan mengenai <strong><em>Jodariel</em></strong> maka terdengar suara <em>tom-tom drum</em> yang berat, dan pada saat nama <strong><em>Rukey Greentail</em></strong> disebut maka sayup-sayup suara <em>suling</em> pun terdengar.
+Dari alat musik tersebut, kita dapat mengira-ngira seperti apa sifat dan ciri khas mereka dalam game ini, sebuah detail yang kecil yang diselipkan dalam lagunya namun memberikan nuansa yang tepat untuk game ini.</p>
+
+<figure><center>
+<img src="/assets/images/omori_headspace-picnic.webp" alt="OMORI Photo Album when Picnic on Headspace" /> <img src="/assets/images/omori_faraway-picnic.webp" alt="OMORI Photo Album when Picnic on Faraway Town" />
+<figcaption>Foto dengan perbedaan palet warna pada game <b>OMORI</b></figcaption>
+</center></figure>
+
+<p>Hal-hal kecil yang dapat memberikan detail lebih juga dapat diaplikasikan pada <em>aesthetic</em> dari grafik yang digunakan pada game tersebut. Contohnya misal pada game <strong>OMORI</strong> dan bagaimana penggunaan palet warnanya.
+Dalam game <strong>OMORI</strong>, kita dapat menjelajahi dua dunia yang berbeda. Setiap dunia yang kita jelajahi memiliki palet warna yang khas untuk menggambarkan filosofi dari dunia tersebut. Pada dunia HEADSPACE kita melihat penggunaan warna yang lebih tersaturasi, yang jika kita bandingkan dengan warna-warna yang terlihat pada FARAWAY
+Dalam game <strong>OMORI</strong>, kita dapat menjelajahi dua dunia yang berbeda. Setiap dunia yang kita jelajahi memiliki palet warna yang khas untuk menggambarkan filosofi dari dunia tersebut. Pada dunia HEADSPACE kita melihat penggunaan warna yang lebih tersaturasi, sedangkan warna-warna yang terlihat ketika kita menjelajahi FARAWAY terlihat lebih <em>realistis</em>, lebih hidup. Dari perbedaan palet warna yang digunakan antara kedua dunia ini, kita dapat mengira-ngira seperti apa sih ide dibalik masing-masing dunia tersebut ;).</p>
+
+<figure><center>
+<img src="/assets/images/tlou_escapethebar.png" alt="Petunjuk Arah yang natural pada The Last of Us" />
+<figcaption>Coba tebak, ke arah mana kah kita harus berjalan? :)</figcaption>
+</center></figure>
+
+<p>Tak hanya dari sisi <em>art</em> saja hal-hal kecil ini bisa kita temui, namun dari sisi <em>level design</em> pun anda dapat menemukan hal-hal yang tampak sederhana namun memerlukan pemahaman yang dalam mengenai sikap dan perilaku dari pemain pada umumnya. Sebagai contoh pada game <strong>The Last of Us</strong> pada prolog dari cerita ini kita dapat melihat bagaimana mereka membuat desain level yang mampu memberikan petunjuk arah kepada pemainnya tanpa perlu memberikan banyak tanda/simbol/UI yang berlebihan. Salah satunya dapat anda lihat pada adegan prolognya ketika <em>Joey</em> membawa anaknya untuk menyelamatkan diri dari kejaran para <em>“zombie”</em>. Pada saat ia berusaha kabur melalui pintu belakang sebuah bar kita dapat melihat dengan jelas kearah mana kita harus berlari, dengan sebuah lampu yang terang-benderang, menyinari sebuah lubang pada tembok pagar belakangnya. Dalam kondisi yang panik dan terburu-buru, fokus kita sebagai pemain akan segera tertuju pada cahaya terang tersebut dan menyadari bahwa jalan tersebut merupakan jalan kabur yang sangat strategis.
+Hal sederhana dari penempatan lampu ini, ditambah dengan kondisi yang gelap pada malam hari,
+mampu membuat sebuah petunjuk arah bagi pemainnya terasa sangat natural.</p>
+
+<p>Masih banyak lagi hal-hal kecil yang dapat kita amati dari berbagai macam dan judul game yang ada. Tentu hal-hal kecil ini terkadang agak sulit kita sadari, terutama ketika kita sudah tenggelam dalam cerita dan dunia dari game yang sedang kita mainkan. Namun, ketika saya menyadari hal-hal tersebut pada game yang sedang atau pernah saya mainkan, saya merasa salut terhadap usaha dari <em>developer</em> gamenya yang berusaha membuat sebuah game dengan memperhatikan detail kecil seperti itu yang membuat saya mengapresiasikan gamenya dengan lebih baik lagi.</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Membahas mengenai hal-hal yang kecil dan terkadang kurang disadari oleh pemain dalam sebuah game dan mengapa hal-hal tersebut dapat membuat pandangan saya, sebagai pemain, menjadi lebih mengapresiasi game tersebut.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cerita Abstrak dalam Game</title><link href="https://setelahgaming.com/cerita-abstrak-dalam-game/" rel="alternate" type="text/html" title="Cerita Abstrak dalam Game" /><published>2021-10-30T00:00:00+07:00</published><updated>2021-10-30T16:35:42+07:00</updated><id>https://setelahgaming.com/cerita-abstrak-dalam-game</id><content type="html" xml:base="https://setelahgaming.com/cerita-abstrak-dalam-game/"><![CDATA[<figure><center>
+<img src="/assets/images/proteus.png" alt="Proteus - Cerita Abstrak dalam Game header" />
+</center></figure>
+
+<p>Dalam sebuah game, cerita menjadi salah satu aspek penting yang orang-orang perhatikan untuk menentukan apakah game tersebut menarik atau tidak. Maka tak heran jika banyak game-game populer memiliki cerita yang menarik, baik dengan <em>lore</em> cerita yang detail, dengan karakter yang menarik dan <em>relatable</em> dengan pemainnya, dengan menggunakan sejarah atau mitologi sehingga terkesan lebih nyata, dengan <em>plot-twist</em> yang <em>mind-blowing</em>, dan masih banyak lainnya.</p>
+
+<p>Tetapi, tak jarang kita menemukan game yang memiliki cerita yang abstrak, cerita yang membuat kita bertanya-tanya apa sih maksudnya. Meski demikian, tak sedikit game yang memiliki cerita yang abstrak dan tetap dapat menarik perhatian dari pemainnya. Jika memang cerita merupakan aspek yang penting dalam sebuah game, mengapa sebuah game yang memiliki cerita yang abstrak dapat menarik perhatian pemainnya?</p>
+
+<p>Cerita yang abstrak bukan berarti tidak memiliki cerita yang berarti, malah sebaliknya, cerita yang abstrak merupakan cerita yang fleksibel. Fleksibel yang seperti apa? Fleksibel tergantung dari perspektif pemainnya. Memang tidak semua cerita yang abstrak dalam game memiliki tingkat fleksibilitas yang sama, misal pada game yang sama-sama tidak menggunakan teks atau dialog dalam menyampaikan ceritanya yaitu <strong>INSIDE</strong>, <strong>GRIS</strong>, dan <strong>Hyper Drifter Light</strong>. Kita dapat melihat bahwa <strong>INSIDE</strong> memiliki cerita yang relatif lebih fleksibel dibandingkan dengan <strong>GRIS</strong> dan <strong>GRIS</strong> memiliki cerita yang relatif lebih fleksibel dibandingkan dengan <strong>Hyper Drifter Light</strong>.</p>
+
+<figure><center>
+<img src="/assets/images/inside_three-creatures.png" alt="INSIDE - The three creatures that we encounter" />
+</center></figure>
+
+<p>Contohnya misal pada game <strong>INSIDE</strong>, mungkin saja ada pemain yang berpikir bahwa terdapat kaitan antara tiga <em>“makhluk hidup”</em> yang berinteraksi dengan tokoh utamanya yaitu sekumpulan anak ayam, babi yang <em>“gila”</em>, dan juga anak kecil berambut panjang yang hanya eksis di bawah air.</p>
+
+<p>Anda mungkin merasa bagaimana anak-anak ayam yang bercuit riang dibandingkan dengan suara dengusan babi yang terus mengejar-ngejar kita dan juga dengan anak kecil berambut panjang yang diam tak bersuara, memiliki suatu makna bagi anda. Atau mungkin anda memperhatikan warnyanya, yang pada mulanya anak-anak ayam memiliki warna yang kuning cerah, kemudian bertemu dengan babi gila yang hanya berwarna hitam dan putih, dan akhirnya anak kecil berambut panjang yang didominasi dengan warna hitam.
+Atau mungkin malah anda tidak menemukan kaitan antara ketiganya sama sekali dalam game tersebut.</p>
+
+<p>Kira-kira seperti itu definisi dari <em>“cerita yang fleksibel”</em> menurut saya, cerita yang setiap orang dapat memiliki perspektif atau pemahaman yg berbeda-beda tergantung dari pengalaman dari pemainnya.</p>
+
+<p>Apabila anda merasa contoh di atas terlalu absurd, mungkin saya dapat memberikan contoh lain yang semoga lebih mudah dipahami. Pada game <strong>GRIS</strong>, terdapat segmen ketika kita ditemani oleh tokoh kecil yang disebut sebagai <strong><em>“Forest Friend”</em></strong>. Teman kecil ini akan menemani dan mengikuti karakter utamanya pada sebagian segmen pada level kedua dari game ini yang berlokasi pada sebuah hutan yang hijau. Tak hanya mengikuti anda saja, pada sebuah segmen ia bahkan akan mengikuti gerak-gerik yang anda lakukan.</p>
+
+<figure><center>
+<img src="/assets/images/gris_friend-forest.png" alt="GRIS When we meet with the Forest Friend" />
+<figcaption>Momen saat kita pertama kali bertemu dengan Forest Friend dalam video game <b>GRIS</b></figcaption>
+</center></figure>
+
+<p>Karena dalam game <strong>GRIS</strong> ini tidak memiliki cerita yang tersurat atau eksplisit, maka kita sebagai pemain dapat mengartikan karakter <strong><em>“Forest Friend”</em></strong> ini sesuai dengan pandangan dan pemahaman kita masing-masing. Kita dapat melihat karakter tersebut sebagai salah satu <em>subordinate</em> dalam pekerjaan kalian atau mungkin sebagai adik kalian yang selalu mengikuti kita kemanapun kita pergi atau mungkin sebagai salah satu teman dekat anda yang setia menemani dan membantu anda. Perspektif tersebut tergantung bagaimana pemain melihat cerita dari game tersebut yang dirasa relevan atau cocok dengan dirinya.</p>
+
+<p>Kalau kita melihat pada game <strong>Sea of Solitude</strong>, yang memiliki tema utama serupa dengan <strong>GRIS</strong>, tentu anda akan merasakan bahwa cerita yang disampaikan lebih eksplisit, lebih tersurat dalam teks dan dialog yang disampaikan. <strong><em>Kay</em></strong>, tokoh utama dalam game tersebut, memiliki masalah dengan adiknya, dengan mantan pacarnya, dengan orangtuanya, dan juga dengan dirinya sendiri. Kita tidak bisa melihat masalah <em>Kay</em> dengan adiknya dengan perspektif yang sangat berbeda dari yang sudah diceritakan dalam game tersebut. Kita tidak bisa mengganti karakter atau masalah yang diceritakan dengan mudah tanpa mengubah konteks cerita yang disampaikan pada game tersebut. Hal ini tentu terasa berbeda dengan cerita pada game <strong>GRIS</strong> yang dapat kita bentuk sesuai dengan pengalaman kita masing-masing, dikarenakan cerita yang disampaikan dalam gamenya abstrak dan sangat tersirat atau implisit.</p>
+
+<figure><center>
+<img src="/assets/images/sea-of-solitude_going-to-darkness.png" alt="Sea of Solitude - When Kay walking to the darkness" />
+<figcaption>Kay melangkah menuju kegelapan pada game <b>Sea of Solitude</b></figcaption>
+</center></figure>
+
+<p>Cerita yang abstrak pada game dapat membuat pemain dengan mudah berempati dengan karakter dalam cerita tersebut sehingga dapat memberi impresi yang lebih dalam kepada pemain. Hal ini dikarenakan secara psikologis, manusia tidak terlalu menyukai hal yang ambigu dan hal yang tidak memiliki penjelasan. Akibatnya ketika kita melihat sebuah cerita yang abstrak, secara tidak langsung kita mulai mengisi hal-hal yang ambigu dan kurang jelas tersebut dengan perspektif dan pengalaman kita sendiri yang membuat seolah-olah cerita tersebut lebih personal.</p>
+
+<p>Tentu saja tidak semua orang menyukai game dengan cerita yang abstrak, tak heran jika banyak video dan artikel berusaha untuk menjelaskan makna dan akhir cerita dari game-game yang memiliki cerita yang abstrak. Namun tak sedikit pula orang yang menyukai game dengan cerita yang abstrak, mungkin karena mereka lebih membutuhkan sebuah media yang dapat mereka isi dengan cerita-cerita yang relevan dan personal dengan mereka sendiri.</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Melihat mengapa game dengan cerita yang abstrak tetap diminati oleh pemain, meskipun cerita yang disampaikan terkadang membingungkan dan ambigu.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Berbicara Tentang Genre</title><link href="https://setelahgaming.com/berbicara-tentang-genre/" rel="alternate" type="text/html" title="Berbicara Tentang Genre" /><published>2021-09-25T00:00:00+07:00</published><updated>2021-09-25T17:31:00+07:00</updated><id>https://setelahgaming.com/berbicara-tentang-genre</id><content type="html" xml:base="https://setelahgaming.com/berbicara-tentang-genre/"><![CDATA[<figure><center>
+<img src="/assets/images/cod-csgo.png" alt="Call of Duty and Counter Strike - Berbicara Tentang Genre header" style="width:100%" />
+</center></figure>
+
+<p>Kalau kita berbicara tentang video game, tidak jarang juga kita membahas mengenai genre dari video game tersebut. Dan genre dalam video game itu tidak sedikit jumlahnya, mulai dari genre yang menjelaskan perspektif kameranya seperti pada <em>first-person shooter</em> dan <em>third-person shooter</em>, genre yang menjelaskan <em>core mechanic game</em>-nya seperti <em>puzzle</em> dan <em>tower defense</em>, genre yang menggunakan game pendahulunya untuk menjelaskan <em>mechanic game</em>-nya seperti <em>roguelike</em> atau <em>metroidvania</em>, dan masih banyak lagi contoh lainnya. Tentu ketika kalian mendengar genre-genre tersebut, kalian bisa langsung membayangkan secara general bagaimana game tersebut akan dimainkan atau mungkin kalian langsung terbayang akan judul-judul game yang termasuk dalam genre tersebut.</p>
+
+<p>Namun, tak jarang ketika kita melihat atau memainkan sebuah game, dan ditanya <strong><em>“Apa sih genre game itu?”</em></strong>, kita kesulitan untuk menjawabnya dengan pasti. Apalagi jika game tersebut memiliki gameplay yang unik, seperti pada game <em>Animal Crossing</em> atau <em>Death Stranding</em>. Tapi, pada sisi lain, kita juga sering mendeskripsikan genre sebuah game dengan membandingkannya dengan game lain (misal <em>Stardew Valley</em> itu game seperti <em>Harvest Moon</em>), atau menggabungkan beberapa genre sekaligus (misal <em>Fallout</em> merupakan FPS dan juga RPG), bahkan menggabungkan beberapa game sekaligus (seperti <em>Splitgate</em> yang memiliki jargon <em>“Halo meets Portal”</em>).</p>
+
+<p>Mengapa kita terkadang merasa sulit untuk menentukan genre dari sebuah game?<br />
+Karena genre itu sendiri hanya penjelasan secara general dari sebuah game, sedangkan detail dari game tersebut tidak bisa kita jelaskan hanya dengan menggunakan sebuah genre saja. Sebagai contoh, jika saya mengatakan bahwa <strong><em>Counter Strike: Global Offensive</em></strong> dan <strong><em>Call of Duty: Black Ops Cold War</em></strong> ialah game FPS, kalian pasti setuju. Namun, jika saya mengatakan bahwa kedua game tersebut ialah game yang identik satu sama lain karena memiliki genre yang sama, pernyataan tersebut akan mendapatkan banyak pertanyaan dan penolakan dari orang-orang. 
+Karena, meskipun keduanya ialah game FPS yang berfokus pada mode <em>multiplayer</em>-nya, secara detail dari <em>gameplay mechanic</em>-nya terasa sangat berbeda. <em>Call of Duty</em> memiliki <em>movement</em> atau pergerakan karakter yang lebih cepat dan pemain dapat dengan mudah mengatur akurasi tembakan ketika sedang berlari menggunakan <em>aim down sight</em>, sementara <em>Counter Strike</em> dimainkan lebih berhati-hati dalam pergerakannya karena tidak terdapat mekanik <em>aim down sight</em> dan akurasi tembakannya sangat bergantung dari kecepatan jalan karakternya.</p>
+
+<figure><center>
+<img src="/assets/images/valorant-trailer.jpg" alt="Valorant Trailer Gameplay" style="width:100%" />
+<figcaption><b>Valorant</b> sekilas terlihat mirip dengan <b>Overwatch</b>, namun jika anda memainkannya, anda akan merasakan bahwa game ini jauh lebih mirip dengan <b>Counter Strike</b> daripada Overwatch.</figcaption>
+</center></figure>
+
+<p>Oleh karena itu, tak heran jika kita lebih mudah untuk menjelaskan bagaimana gameplay sebuah game dengan membandingkannya dengan game lain daripada berusaha menjelaskannya menggunakan genre game yang ada. Tentu tidak ada salahnya mendeskripsikan game <strong><em>Valorant</em></strong> sebagai <em>“5v5 character-based tactical FPS”</em>, akan tetapi lebih mudah dipahami jika saya mengatakan bahwa <em>Valorant</em> itu seperti game <em>CG:GO</em> yang setiap karakternya memiliki skill khusus yang berbeda-beda, dan juga kita tidak bisa membeli granat disini :(</p>
+
+<p>Mendeskripsikan sebuah game dengan membandingkannya dengan judul game lain memang lebih mudah untuk dijelaskan dan juga untuk dipahami, tetapi hal tersebut juga memiliki masalah. Karena tidak semua orang mengetahui seperti apa game yang kita gunakan sebagai perbandingan! Penjelasan saya mengenai <em>Valorant</em> di atas tentu akan lebih sulit dipahami jika anda tidak pernah memainkan game <em>Counter Strike</em> sama sekali kan?</p>
+
+<p>Contoh lainnya ialah ketika saya ingin menjelaskan mengenai game <strong><em>Prey</em></strong> buatan <strong>Arkane Studio</strong> kepada teman saya yang belum pernah memainkannya, saya mengatakan bahwa game tersebut serupa dengan game dari seri <strong><em>Deus Ex</em></strong>, yang ternyata dia juga tidak pernah tau seperti ada game <em>Deus Ex</em> itu. Mau tak mau saya kembali menggunakan genre untuk menjelaskan game <em>Prey</em> dan <em>Deus Ex</em> kepadanya.<br />
+Karena itu, meskipun genre tidak dapat menjelaskan sebuah game dengan tepat, genre masih berguna ketika kita berbicara kepada audiens yang lebih luas.</p>
+
+<figure><center>
+<img src="/assets/images/stoneshard-steam-page.png" alt="Stoneshare Steam Description" />
+<figcaption><b>Stoneshard</b> memiliki tag "Roguelike" yang diberikan oleh para pemainnya. <br />Saya merasa tag roguelike ini kurang tepat untuk menggambarkan gameplay dari Stoneshard. Bahkan deskripsi dari developer-nya pun tidak menyebutkan bahwa game ini ialah game roguelike.</figcaption>
+</center></figure>
+
+<p>Tentu saja ketika mengobrol mengenai genre game, terutama genre yang memiliki pengertian yang luas, setiap orang terkadang memiliki definisi yang sedikit berbeda-beda. Dan tak jarang orang-orang memanfaatkan kerancuan dalam mendefinisikan genre tersebut untuk “mempromosikan” sebuah game dengan melabelkannya dengan genre yang populer atau menghindari melabelkannya dengan genre yang kurang diminati. Hal ini bisa terjadi, baik disengaja maupun tidak.<br />
+Namun, selama kita mampu untuk memberikan gambaran terhadap definisi kita tentang genre tersebut dan penggunaannya dapat mempermudah kita dalam berdiskusi mengenai game, bagi saya hal tersebut bukanlah sebuah masalah.</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Membahas mengenai genre video game, apakah penggunaan genre ini penting dan diperlukan atau hanya sebuah istilah yang malah membuat orang-orang menjadi lebih bingung terhadap video game tersebut.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Binging Short Games</title><link href="https://setelahgaming.com/binging-short-games/" rel="alternate" type="text/html" title="Binging Short Games" /><published>2021-08-01T00:00:00+07:00</published><updated>2021-08-01T00:00:00+07:00</updated><id>https://setelahgaming.com/binging-short-games</id><content type="html" xml:base="https://setelahgaming.com/binging-short-games/"><![CDATA[<figure><center>
+<img src="/assets/images/minit-inside.jpg" alt="Death Stranding - Extinction" style="width:100%" />
+</center></figure>
+
+<p>Ketika saya melihat video <a href="https://www.youtube.com/c/DarylTalksGames" target="_blank"><strong>Daryl Talks Game</strong></a> tentang <a href="https://www.youtube.com/watch?v=GIDc_g7hydY" target="_blank"><strong><em>Are you a Binger or Drifter</em></strong></a>, saya langsung menjawab bahwa saya ialah seorang Drifter, karena saya adalah pemain yang “lambat”. Saya bukan tipe pemain game yang kalau sedang <em>weekend</em>, bisa memainkan sebuah game non-stop dari pagi hingga malam dengan total <em>gameplay</em> hingga 10+ jam dalam sehari. Saya juga bukan tipe pemain game yang ketika pulang kantor, setelah makan malam dan berberes-beres, bakalan non-stop memainkan game hingga lewat tengah malam bermain game hingga 4 jam lebih dalam sehari. <em>Well</em>, terkadang saya masih bisa melakukan hal tersebut, namun bukan sesuatu yang sering terjadi.<br />
+Oleh karena itu, saya jarang sekali mem-<em>binge</em> sebuah game, tidak pernah saya menyelesaikan game yang berdurasi 20 jam dalam 1 weekend atau game JRPG berdurasi 60-80 jam dalam waktu 2 minggu. Bahkan untuk game-game yang pendek saja, terkadang saya memerlukan beberapa sesi bermain untuk menyelesaikan. Saya seorang <em>drifter</em>.</p>
+
+<p>Saya setuju dengan kesimpulan bahwa memainkan sebuah game dengan lebih pelan, dengan tidak dengan mem-<em>binge</em>-nya dalam waktu singkat, dapat membuat kita sebagai pemainnya untuk mengingat dan memahami dengan lebih detail inti dari game tersebut.<br />
+Tapi, untuk game yang memiliki durasi cukup pendek (misal <a href="https://ashorthike.com/" target="_blank"><strong>A Short Hike</strong></a> atau <a href="https://minitgame.com/" target="_blank"><strong>Minit</strong></a>), terkadang sulit untuk tidak menyelesaikan game tersebut dalam sekali duduk saja. Akibatnya, retensi dan ingatan terhadap game tersebut terkadang menjadi samar-samar, meskipun kita sangat menikmatinya ketika memainkan game tersebut.</p>
+
+<p>Tentu saja ada yang berpendapat bahwa game yang memiliki durasi yang pendek dapat dengan mudah kita mainkan beberapa kali, jika kita ingin memahami game tersebut lebih dalam lagi, dibandingkan dengan memainkan ulang sebuah game yang memiliki durasi puluhan jam. Tapi, dengan panjangnya daftar <em>backlog</em> game yang ingin namun belum saya mainkan, memainkan sebuah game berkali-kali terkadang terasa seperti menyia-nyiakan kesempatan untuk mengurangi <em>backlog</em> tersebut :p</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Respons terhadap video Daryl Talks Game tentang "Are you a Binger or Drifter" yang dikaitkan dengan durasi dari sebuah game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Death Stranding - Cerita dan Harapan</title><link href="https://setelahgaming.com/death-stranding-cerita-dan-harapan/" rel="alternate" type="text/html" title="Death Stranding - Cerita dan Harapan" /><published>2021-07-18T00:00:00+07:00</published><updated>2021-07-18T00:00:00+07:00</updated><id>https://setelahgaming.com/death-stranding-cerita-dan-harapan</id><content type="html" xml:base="https://setelahgaming.com/death-stranding-cerita-dan-harapan/"><![CDATA[<figure><center>
+<img src="/assets/images/death-stranding-psychoromantist.jpg" alt="Death Stranding Header" style="width:100%" />
+<figcaption align="center">Screenshot Death Stranding oleh Psychoromantist (<a href="https://twitter.com/psychoromantist/status/1412644280833699844" target="_blank">source</a>).</figcaption>
+</center></figure>
+
+<p><strong>Death Stranding</strong>, merupakan sebuah anomali dalam video game. Di produksi oleh <strong>Kojima Productions</strong>, game ini terlihat sangat berbeda dengan game-game buatan mereka sebelumnya, bahkan jika dibandingkan dengan game manapun, Death Stranding tampak berada di dunianya sendiri, tanpa ada pembandingnya.</p>
+
+<p>Tak heran jika game membuat para gamer menjadi terpecah, antara kubu yang mengelu-elukannya dan diseberangnya terdapat pula kubu yang menjelek-jelekkannya.
+Sebenarnya game seperti apa Death Stranding ini?</p>
+
+<p>Bagi saya, Death Stranding merupakan sebuah cerita mengenai perjalanan hidup, dan yang saya maksud di sini bukanlah perjalanan hidup spesifik dari karakter utamanya, <em>Sam Porter Bridges</em>, melainkan cerita tentang perjalanan hidup manusia pada umumnya.</p>
+
+<h3 id="memulai-dengan-harapan">Memulai dengan Harapan</h3>
+
+<p>Sebuah cerita umumnya dimulai dengan harapan sebagai tujuan akhirnya, dan cerita tersebut dapat saling bersinggungan dengan cerita lainnya meski memiliki harapan dan tujuan yang berbeda. Dalam Death Stranding, ceritanya dimulai dari harapan para petinggi UCA agar jaringan <em>Chiral</em> mereka dapat terhubung dengan lengkap, dari timur ke barat. Cerita ini juga bersinggungan dengan cerita yang dijalani oleh Sam, namun dengan harapan yang berbeda, yaitu untuk bertemu kembali dengan kakak angkatnya, Amelie.<br />
+Dua harapan yang berbeda, dipicu oleh sebuah kejadian yang sama, dan dapat dipenuhi dengan melakukan tindakan yang sama pula, dengan Sam memulai perjalanannya menyambungkan jaringan <em>Chiral</em> hingga ke barat.</p>
+
+<p>Kalau kita melihat harapan Sam untuk bertemu kembali dengan Amelie, mungkin kita bisa merasakan bahwa hal ini terasa sedikit dipaksakan. Karena Sam tampaknya sudah tidak peduli lagi dengan Bridges, UCA, bahkan keluarganya, tetapi mengapa ia mau mengikat kontrak dengan Bridget? Apakah dia dipaksa atau memang dalam hatinya ia merasa ingin untuk membantu?<br />
+Mungkin, karena seperti itulah harapan bekerja pada kenyataannya. Terkadang ada orang yang melihat bahwa hidup ini memerlukan sebuah harapan untuk dapat terus maju melaluinya sehingga terkadang mereka memaksakan sebuah harapan ke orang-orang yang menurut mereka memerlukannya.Tapi mungkin juga, anda mempercayai bahwa setiap orang, sadar ataupun tidak, pasti memiliki harapan dalam diri mereka masing-masing dan terkadang mereka memerlukan dorongan dan bantuan dari luar diri mereka untuk menyadari hal tersebut.</p>
+
+<h3 id="perjalanan-untuk-memenuhi-harapan">Perjalanan untuk Memenuhi Harapan</h3>
+
+<figure><center>
+<img src="/assets/images/death-stranding-mountain-knot-city.jpg" alt="Death Stranding - Mountain Knot City" style="width:100%" />
+</center></figure>
+
+<p>Jika harapan digunakan untuk memulai sebuah cerita, bagaimana dengan isi dan perjalanan dari cerita tersebut? Tentu saja ia akan menceritakan bagaimana proses dan usahanya untuk memenuhi harapan tersebut, hingga menjadi kenyataan.<br />
+Dan bagi Sam, dan juga bagi banyak orang, harapan inilah yang membuat dirinya terus berjuang melewati semua hal yang berbahaya, menyebalkan, membosankan, dan lainnya. Meski setiap kali ia menyelesaikan tugas yang diberikan kepadanya, ia akan diberikan lagi tugas baru yang lebih berbahaya, lebih menyebalkan, dan sama membosankan. Hal ini terus berulang selama perjalanannya, dengan kondisi yang baru, dengan orang-orang yang berbeda, dengan kondisi lingkungan yang semakin sulit.</p>
+
+<p>Tapi sebuah harapan yang besar memerlukan waktu yang tak singkat pula, dan semakin panjang waktu yang diperlukan maka semakin menyebalkan dan membosankan pula perjalanan yang harus ditempuh untuk menuju harapan tersebut. Akibatnya, motivasi untuk meraih harapan pun akan perlahan terkikis seiring berjalannya waktu. Oleh karena itu, diperlukan <em>“titik pemberhentian”</em> yang lebih kecil yang berfungsi sebagai jembatan bagi kita untuk meraih harapan yang besar. Dengan adanya titik-titik pemberhentian ini, usaha yang dirasakan menjadi sedikit lebih ringan dan terlihat lebih mudah dicapai, dibandingkan jika kita langsung berlari menuju garis <em>finish</em> yang jauh.</p>
+
+<p>Tentu dalam <em>game design</em> dari Death Stranding, Sam tidak disuruh untuk langsung menuju titik akhirnya, yaitu Edge Knot City, tetapi perlahan-lahan membangun jaringan <em>Chiral</em> menuju ke barat. Hal ini lah yang menjadi <em>“misi kecil”</em> atau <em>“titik pemberhentian”</em> bagi Sam (dan juga kita, sebagai pemainnya) untuk memenuhi harapannya. Dan tak hanya itu saja, sistem <em>“Like”</em> pada game ini juga dirancang untuk memiliki tujuan yang serupa, terutama bagi pemainnya. Motivasi kecil inilah yang digunakan agar pemain merasa mendapat sebuah <em>reward</em> dari usahanya dalam menyelesaikan sebuah misi, membantu membuat infrastruktur, ataupun hanya sekedar memberi semangat dan petunjuk arah bagi pemain lainnya.</p>
+
+<p>Hal ini tidak berbeda jauh dengan kehidupan nyata, yang mana kita terbiasa merencanakan dan mempersiapkan sesuatu, mungkin sebuah acara atau tugas dari sekolah/kantor atau bisa juga sebuah impian atau cita-cita yang besar. Dalam perjalanan untuk menyelesaikannya, kita juga menerima <em>“like”</em>, baik dalam bentuk pujian, kata-kata motivasi, ataupun sekedar ucapan terima kasih. Karena dari hal-hal kecil seperti itulah, seseorang dapat mampu menyelesaikan sebuah pekerjaan atau meraih sebuah impian yang besar.</p>
+
+<h3 id="akhir-dari-sebuah-harapan">Akhir dari sebuah Harapan</h3>
+
+<p>Harapan, hanya dapat menjadi harapan ketika hal tersebut belumlah tercapai. Namun, setelah harapan tersebut sudah tercapai dan terpenuhi, hal tersebut sudah berubah menjadi kenyataan dan cerita tentang harapan tersebut pun akan berakhir.</p>
+
+<figure><center>
+<img src="/assets/images/death-stranding-extinction.png" alt="Death Stranding - Extinction" style="width:100%" />
+</center></figure>
+
+<p>Hal ini tercermin pada cerita Death Stranding yang berakhir ketika Sam berhasil bertemu kembali dengan Amelie dan mendapatkan penjelasan yang panjang lebar mengenai dirinya, Sam, dan juga keseluruhan peristiwa Death Stranding. Juga diakhiri dengan keberhasilan UCA untuk menyatukan kembali kota-kota yang ada dalam jaringan <em>Chiral</em> yang terbentang hingga ke barat.</p>
+
+<p>Namun, bukan berarti karena harapan Sam untuk bertemu dengan Amelie telah tercapai, maka berakhir pula cerita kehidupan mengenai Sam. Kehidupannya masih tetap berjalan dan berlangsung, bahkan bisa dibilang tampaknya kembali seperti sebelum semua cerita ini dimulai, yang mana dirinya menjadi kurir penyendiri yang tidak terikat dengan siapa pun lagi. Tetapi ingat, harapan dapat memberikan tujuan dalam hidup, dan hidup tanpa tujuan yang jelas dan pasti terkadang terasa hampa dan tidak dapat menjadi sebuah cerita yang menarik. Oleh karena itu, di akhir ceritanya kita melihat bahwa Sam menemukan kembali sebuah harapan dalam hidupnya, yang tidak diceritakan lebih lanjut dalam game ini. Karena harapan baru ialah cerita yang baru, mungkin akan menjadi cerita dalam sekuel nya? ¯\_(ツ)_/¯</p>
+
+<hr />]]></content><author><name>Setelah Gaming</name></author><summary type="html"><![CDATA[Melihat sebuah cerita yang dimulai dari harapan, bagaimana perjalanan untuk mencapai harapan tersebut, dan juga akhir dari harapan tersebut dengan melihat cerita dari game Death Stranding.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setelahgaming.com/assets/images/logo/logo.png" /><media:content medium="image" url="https://setelahgaming.com/assets/images/logo/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
